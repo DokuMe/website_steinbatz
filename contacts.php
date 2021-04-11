@@ -1,114 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
-<head>
-	<title>Kontakt &#8211; Winzerhof Steinbatz</title>
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel='stylesheet' id='trx_addons-icons-css' href='js/vendor/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='trx_addons-css' href='js/vendor/plugins/trx_addons/css/trx_addons.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-font-google_fonts-css' href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic%7CLato:400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-fontello-css' href='css/fontello/css/fontello-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-main-css' href='css/style.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-animation-css' href='css/animation.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-colors-css' href='css/__colors.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-styles-css' href='css/__styles.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-custom-css' href='css/custom.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-responsive-css' href='css/responsive.min.css' type='text/css' media='all' />
-</head>
+
+<?php include 'includes/head.php'; ?>
+
 <body class="page page-id-299 page-template-default body_tag body_style_wide scheme_default blog_mode_page is_single sidebar_hide header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
 	<div class="body_wrap">
 		<div class="page_wrap">
-			<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
-				<a class="menu_mobile_button"></a>
-				<div class="top_panel_fixed_wrap"></div>
-				<div class="top_panel_navi scheme_default">
-					<div class="menu_main_wrap clearfix">
-						<div class="wrap">
-							<a class="logo" href="index.html"><img src="images/logo3.png" class="logo_main" alt="" /></a>
-							<nav class="menu_main_nav_area menu_hover_fade">
-								<ul id="menu_main" class="menu_main_nav">
-									<li class="menu-item menu-item-has-children"><a href="index.html"><span>Home</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="index.html"><span>Home 1</span></a></li>
-											<li class="menu-item"><a href="home2.html"><span>Home 2</span></a></li>
-											<li class="menu-item"><a href="home3.html"><span>Home 3</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item"><a href="wine-list.html"><span>Unsere Weine</span></a></li>
-									<li class="menu-item menu-item-has-children"><a href="blog-archive.html"><span>The Journal</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item menu-item-has-children"><a href="blog-style-chess-2-columns-2.html"><span>Blog Style 1</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-style-chess-2-columns-2.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-chess-4-columns.html"><span>4 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-chess-6-columns.html"><span>6 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item menu-item-has-children"><a href="blog-style-2.html"><span>Blog Style 2</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-archive.html"><span>1 column</span></a></li>
-													<li class="menu-item"><a href="blog-style-2.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-classic-3-columns.html"><span>3 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item menu-item-has-children"><a href="blog-style-portfolio-2-columns.html"><span>Portfolio</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-style-portfolio-2-columns.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-portfolio-3-columns.html"><span>3 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-portfolio-4-columns.html"><span>4 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-											<li class="menu-item"><a href="single-post.html"><span>Post with comments</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="buy-wines.html"><span>Unser Shop</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="cart.html"><span>Cart</span></a></li>
-											<li class="menu-item"><a href="checkout.html"><span>Checkout</span></a></li>
-											<li class="menu-item"><a href="account.html"><span>My Account</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-											<li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-											<li class="menu-item"><a href="events.html"><span>Events</span></a></li>
-											<li class="menu-item"><a href="non-existing-page.html"><span>Page 404</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children current-menu-parent"><a href="index.html"><span>Kontakt</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item current-menu-item"><a href="contact.html"><span>Kontakt</span></a></li>
-											<li class="menu-item"><a href="about-us.html"><span>Über uns</span></a></li>
-										</ul>
-									</li>
-								</ul>
-								<div class="search_wrap search_style_fullscreen">
-									<div class="search_form_wrap">
-										<form role="search" method="get" class="search_form" action="#">
-											<input type="text" class="search_field" placeholder="Search" value="" name="s">
-											<button type="submit" class="search_submit icon-search"></button>
-											<a class="search_close icon-cancel"></a>
-										</form>
-									</div>
-									<div class="search_results widget_area">
-										<a href="#" class="search_results_close icon-cancel"></a>
-										<div class="search_results_content"></div>
-									</div>
-								</div>
-							</nav>
-						</div>
-					</div>
-				</div>
+		<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
+				<?php include 'includes/header.php'; ?>
+
 				<div class="top_panel_title_wrap">
 					<div class="content_wrap">
 						<div class="top_panel_title">
 							<div class="page_title">
-								<h1 class="page_caption">Kontakt</h1>
+								<h1 class="page_caption">Unsere Weine</h1>
 							</div>
-							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Kontakt</span></div>
+							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Unsere Weine</span></div>
 						</div>
 					</div>
 				</div>
@@ -196,6 +103,7 @@
 				<div class="content_wrap">
 					<div class="post_content entry-content">
 						<div class="wpb_wrapper">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.3523826708315!2d15.69510101572546!3d48.43057627924797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47728321bffb0191%3A0x7632360e7d647fc1!2sHauptstra%C3%9Fe%2040%2C%203494!5e0!3m2!1sde!2sat!4v1618178651383!5m2!1sde!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							<div id="sc_googlemap_1883708744_wrap" class="sc_googlemap_wrap">
 								<div id="sc_googlemap_1883708744" class="sc_googlemap sc_googlemap_detailed" style="width:100%;height:660px;" data-zoom="12" data-style="default">
 									<div id="sc_googlemap_1883708744_1" class="sc_googlemap_marker" data-latlng="41.031786,-73.629356" data-address="" data-description="" data-title="Our Plantation" data-icon="images/googlemap_marker.png"></div>
@@ -252,41 +160,9 @@
 				<!-- </.content_wrap> -->
 			</div>
 			<!-- </.page_content_wrap> -->
-			<footer class="site_footer_wrap scheme_dark">
-				<div class="logo_footer_wrap scheme_dark">
-					<div class="logo_footer_wrap_inner">
-						<a href="index.html"><img src="images/logo-footer.png" class="logo_footer_image" alt="" /></a>
-					</div>
-				</div>
-				<div class="socials_footer_wrap socials_wrap scheme_dark">
-					<div class="socials_footer_wrap_inner">
-						<span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
-						</span>
-					</div>
-				</div>
-				<div class="menu_footer_wrap scheme_dark">
-					<div class="menu_footer_wrap_inner">
-						<nav class="menu_footer_nav_area">
-							<ul id="menu_footer" class="menu_footer_nav">
-								<li class="menu-item menu-item-143"><a href="home3.html"><span>Home</span></a></li>
-								<li class="menu-item menu-item-675"><a href="about-us.html"><span>Our philosophy</span></a></li>
-								<li class="menu-item menu-item-677"><a href="wine-list.html"><span>What we craft</span></a></li>
-								<li class="menu-item menu-item-147"><a href="shop.html"><span>Shop</span></a></li>
-								<li class="menu-item menu-item-676"><a href="index.html"><span>Privacy policy</span></a></li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-				<div class="copyright_wrap scheme_dark">
-					<div class="copyright_wrap_inner">
-						<div class="content_wrap">
-							<div class="copyright_text">ThemeREX © 2017. All rights reserved.</div>
-						</div>
-					</div>
-				</div>
-			</footer>
+			
+			<?php include 'includes/footer.php'; ?>
+			
 			<!-- /.site_footer_wrap -->
 		</div>
 		<!-- /.page_wrap -->
@@ -299,7 +175,7 @@
 	<script type='text/javascript' src='js/__scripts.js '></script>
 	<script type='text/javascript' src='js/custom/custom.js '></script>
 	<script type='text/javascript' src='js/custom/_form_contact.js '></script>
-	<script type='text/javascript' src='http://maps.google.com/maps/api/js?key=AIzaSyD2-LD0jQTHC2bthfrrrdlOzQiQUoGIS6o '></script>
+	<!--<script type='text/javascript' src='http://maps.google.com/maps/api/js?key=AIzaSyD2-LD0jQTHC2bthfrrrdlOzQiQUoGIS6o '></script>-->
 	<a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
 </body>
 <!-- Mirrored from laonwine.themerex.net/contacts/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 31 Jan 2017 10:13:08 GMT -->

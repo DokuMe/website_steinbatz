@@ -1,120 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
-<head>
-	<title>Unsere Weine &#8211; Winzerhof Steinbatz</title>
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel='stylesheet' id='trx_addons-icons-css' href='js/vendor/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='trx_addons-css' href='js/vendor/plugins/trx_addons/css/trx_addons.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-font-google_fonts-css' href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic%7CLato:400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-fontello-css' href='css/fontello/css/fontello-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-main-css' href='css/style.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-animation-css' href='css/animation.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-colors-css' href='css/__colors.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-styles-css' href='css/__styles.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-custom-css' href='css/custom.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-responsive-css' href='css/responsive.min.css' type='text/css' media='all' />
 
+<?php include 'includes/head.php'; ?>
 
-	<style>
-
-	.logo_footer_wrap_inner img {
-		height: 80px;
-	}
-
-	.logo img {
-		height: 80px;
-	}
-	</style>
-
-</head>
 <body class="page page-id-296 page-template-default body_tag body_style_wide scheme_default blog_mode_page is_single sidebar_hide expand_content remove_margins header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
 	<div class="body_wrap">
 		<div class="page_wrap">
 			<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
-				<a class="menu_mobile_button"></a>
-				<div class="top_panel_fixed_wrap"></div>
-				<div class="top_panel_navi						scheme_default">
-					<div class="menu_main_wrap clearfix">
-						<div class="wrap">
-							<a class="logo" href="index.html"><img src="images/logo3.png" class="logo_main" alt="" /></a>
-							<nav class="menu_main_nav_area menu_hover_fade">
-								<ul id="menu_main" class="menu_main_nav">
-									<li class="menu-item menu-item-has-children"><a href="index.html"><span>Home</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="index.html"><span>Home 1</span></a></li>
-											<li class="menu-item"><a href="home2.html"><span>Home 2</span></a></li>
-											<li class="menu-item"><a href="home3.html"><span>Home 3</span></a></li>
-										</ul>
-									</li>
-									<li class="current-menu-item wer menu-item"><a href="index.html"><span>Unsere Weine</span></a></li>
-									<li class="menu-item menu-item-has-children"><a href="blog-archive.html"><span>The Journal</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item menu-item-has-children"><a href="blog-style-chess-2-columns-2.html"><span>Blog Style 1</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-style-chess-2-columns-2.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-chess-4-columns.html"><span>4 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-chess-6-columns.html"><span>6 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item menu-item-has-children"><a href="blog-style-2.html"><span>Blog Style 2</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-archive.html"><span>1 column</span></a></li>
-													<li class="menu-item"><a href="blog-style-2.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-classic-3-columns.html"><span>3 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item menu-item-has-children"><a href="blog-style-portfolio-2-columns.html"><span>Portfolio</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-style-portfolio-2-columns.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-portfolio-3-columns.html"><span>3 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-portfolio-4-columns.html"><span>4 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-											<li class="menu-item"><a href="single-post.html"><span>Post with comments</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="buy-wines.html"><span>Unser Shop</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="cart.html"><span>Cart</span></a></li>
-											<li class="menu-item"><a href="checkout.html"><span>Checkout</span></a></li>
-											<li class="menu-item"><a href="account.html"><span>My Account</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-											<li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-											<li class="menu-item"><a href="events.html"><span>Events</span></a></li>
-											<li class="menu-item"><a href="non-existing-page.html"><span>Page 404</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="contacts.html"><span>Contacts</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="contacts.html"><span>Contact Us</span></a></li>
-											<li class="menu-item"><a href="about-us.html"><span>About Us</span></a></li>
-										</ul>
-									</li>
-								</ul>
-								<div class="search_wrap search_style_fullscreen">
-									<div class="search_form_wrap">
-										<form role="search" method="get" class="search_form" action="#">
-											<input type="text" class="search_field" placeholder="Search" value="" name="s">
-											<button type="submit" class="search_submit icon-search"></button>
-											<a class="search_close icon-cancel"></a>
-										</form>
-									</div>
-									<div class="search_results widget_area">
-										<a href="#" class="search_results_close icon-cancel"></a>
-										<div class="search_results_content"></div>
-									</div>
-								</div>
-							</nav>
-						</div>
-					</div>
-				</div>
+				<?php include 'includes/header.php'; ?>
+
 				<div class="top_panel_title_wrap">
 					<div class="content_wrap">
 						<div class="top_panel_title">
@@ -126,6 +20,7 @@
 					</div>
 				</div>
 			</header>
+
 			<div class="menu_mobile_overlay"></div>
 			<div class="menu_mobile scheme_dark">
 				<div class="menu_mobile_inner">
@@ -205,6 +100,7 @@
 					</div>
 				</div>
 			</div>
+			
 			<div class="page_content_wrap scheme_default">
 				<div class="content_wrap">
 					<div class="content">
@@ -224,12 +120,13 @@
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
-																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br/>
-																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span></p>
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span>
+																		</p>
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a>																</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -252,12 +149,13 @@
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
-																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br/>
-																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span></p>
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a>																</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -280,12 +178,13 @@
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
-																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br/>
-																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span></p>
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a>																</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -308,41 +207,9 @@
 					</div>
 				</div>
 			</div>
-			<footer class="site_footer_wrap scheme_dark">
-				<div class="logo_footer_wrap scheme_dark">
-					<div class="logo_footer_wrap_inner">
-						<a href="index.html"><img src="images/Logo3_white.png" class="logo_footer_image" alt="" /></a>
-					</div>
-				</div>
-				<div class="socials_footer_wrap socials_wrap scheme_dark">
-					<div class="socials_footer_wrap_inner">
-						<span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
-						</span>
-					</div>
-				</div>
-				<div class="menu_footer_wrap scheme_dark">
-					<div class="menu_footer_wrap_inner">
-						<nav class="menu_footer_nav_area">
-							<ul id="menu_footer" class="menu_footer_nav">
-								<li class="menu-item menu-item-143"><a href="home3.html"><span>Home</span></a></li>
-								<li class="menu-item menu-item-675"><a href="about-us.html"><span>Our philosophy</span></a></li>
-								<li class="menu-item menu-item-677"><a href="index.html"><span>What we craft</span></a></li>
-								<li class="menu-item menu-item-147"><a href="shop.html"><span>Shop</span></a></li>
-								<li class="menu-item menu-item-676"><a href="contacts.html"><span>Privacy policy</span></a></li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-				<div class="copyright_wrap scheme_dark">
-					<div class="copyright_wrap_inner">
-						<div class="content_wrap">
-							<div class="copyright_text">ThemeREX © 2017. All rights reserved.</div>
-						</div>
-					</div>
-				</div>
-			</footer>
+			
+			<?php include 'includes/footer.php'; ?>
+
 		</div>
 	</div>
 	<script type='text/javascript' src='js/vendor/jquery.js'></script>
@@ -352,4 +219,5 @@
 	<script type='text/javascript' src='js/custom/custom.js'></script>
 	<a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
 </body>
+
 </html>

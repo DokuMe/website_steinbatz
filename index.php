@@ -60,11 +60,11 @@
 									<li class="menu-item"><a href="home3.html"><span>Home 3</span></a></li>
 								</ul>
 							</li>
-							<li class="menu-item"><a href="wine-list.html"><span>Weingut</span></a></li>
-							<li class="menu-item menu-item-has-children"><a href="blog-archive.html"><span>Gästehaus</span></a>
+							<li class="menu-item"><a href="wine-list.php"><span>Weingut</span></a></li>
+							<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="blog-style-chess-2-columns-2.html"><span>Familientradition</span></a></li>
-									<li class="menu-item"><a href="blog-style-chess-4-columns.html"><span>Lagen</span></a></li>
+									<li class="menu-item"><a href="family.php"><span>Familientradition</span></a></li>
+									<li class="menu-item"><a href="lagen.php"><span>Lagen</span></a></li>
 
 									<li class="menu-item menu-item-has-children"><a href="blog-style-chess-2-columns-2.html"><span>Weine</span></a>
 										<ul class="sub-menu">
@@ -73,43 +73,19 @@
 										<!--	<li class="menu-item"><a href="blog-style-chess-6-columns.html"><span>6 columns</span></a></li>-->
 										</ul>
 									</li>
-									<li class="menu-item menu-item-has-children"><a href="blog-style-2.html"><span>Shop</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="blog-archive.html"><span>1 column</span></a></li>
-											<li class="menu-item"><a href="blog-style-2.html"><span>2 columns</span></a></li>
-											<li class="menu-item"><a href="blog-style-classic-3-columns.html"><span>3 columns</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="blog-style-portfolio-2-columns.html"><span>Portfolio</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="blog-style-portfolio-2-columns.html"><span>2 columns</span></a></li>
-											<li class="menu-item"><a href="blog-style-portfolio-3-columns.html"><span>3 columns</span></a></li>
-											<li class="menu-item"><a href="blog-style-portfolio-4-columns.html"><span>4 columns</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-									<li class="menu-item"><a href="single-post.html"><span>Post with comments</span></a></li>
+									
 								</ul>
 							</li>
-							<li class="menu-item menu-item-has-children"><a href="buy-wines.html"><span>Unser Shop</span></a>
+							<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Unser Shop</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="cart.html"><span>Cart</span></a></li>
-									<li class="menu-item"><a href="checkout.html"><span>Checkout</span></a></li>
-									<li class="menu-item"><a href="account.html"><span>My Account</span></a></li>
+									<li class="menu-item"><a href="cart.php"><span>Cart</span></a></li>
+									<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
+									<li class="menu-item"><a href="account.php"><span>My Account</span></a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
+							<li class="menu-item menu-item-has-children"><a href="contacts.php"><span>Kontakt</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-									<li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-									<li class="menu-item"><a href="events.html"><span>Events</span></a></li>
-									<li class="menu-item"><a href="non-existing-page.html"><span>Page 404</span></a></li>
-								</ul>
-							</li>
-							<li class="menu-item menu-item-has-children"><a href="contacts.html"><span>Contacts</span></a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="contacts.html"><span>Contact Us</span></a></li>
-									<li class="menu-item"><a href="about-us.html"><span>About Us</span></a></li>
+									<li class="menu-item"><a href="contacts.php"><span>Contact Us</span></a></li>
 								</ul>
 							</li>
 						</ul>
@@ -601,41 +577,9 @@
 			</div>
 		</div>
 	</div>
-	<footer class="site_footer_wrap scheme_dark">
-		<div class="logo_footer_wrap scheme_dark">
-			<div class="logo_footer_wrap_inner">
-				<a href="index.html"><img src="http://laonwine-html.themerex.net/images/logo-footer.png" class="logo_footer_image" alt="" /></a>
-			</div>
-		</div>
-		<div class="socials_footer_wrap socials_wrap scheme_dark">
-			<div class="socials_footer_wrap_inner">
-				<span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
-				</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
-				</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
-				</span>
-			</div>
-		</div>
-		<div class="menu_footer_wrap scheme_dark">
-			<div class="menu_footer_wrap_inner">
-				<nav class="menu_footer_nav_area">
-					<ul id="menu_footer" class="menu_footer_nav">
-						<li class="menu-item menu-item-143"><a href="home3.html"><span>Home</span></a></li>
-						<li class="menu-item menu-item-675"><a href="about-us.html"><span>Our philosophy</span></a></li>
-						<li class="menu-item menu-item-677"><a href="wine-list.html"><span>What we craft</span></a></li>
-						<li class="menu-item menu-item-147"><a href="shop.html"><span>Shop</span></a></li>
-						<li class="menu-item menu-item-676"><a href="contacts.html"><span>Privacy policy</span></a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-		<div class="copyright_wrap scheme_dark">
-			<div class="copyright_wrap_inner">
-				<div class="content_wrap">
-					<div class="copyright_text">ThemeREX © 2017. All rights reserved.</div>
-				</div>
-			</div>
-		</div>
-	</footer>
+	
+	<?php include 'includes/footer.php'; ?>
+	
 	</div>
 	</div>
 	<script type='text/javascript' src='js/vendor/jquery.js'></script>

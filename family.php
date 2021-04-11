@@ -1,127 +1,26 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
-<head>
-	<title>Unser Gästehaus &#8211; Winzerhof Steinbatz</title>
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><link rel="icon" href="favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel='stylesheet' id='trx_addons-icons-css' href='js/vendor/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='swiperslider-css' href='js/vendor/plugins/trx_addons/js/swiper/swiper.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='magnific-popup-css' href='js/vendor/plugins/trx_addons/js/magnific/magnific-popup.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='trx_addons-css' href='js/vendor/plugins/trx_addons/css/trx_addons.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-font-google_fonts-css' href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic%7CLato:400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-fontello-css' href='css/fontello/css/fontello-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-main-css' href='css/style.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-animation-css' href='css/animation.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-colors-css' href='css/__colors.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-styles-css' href='css/__styles.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-custom-css' href='css/custom.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-responsive-css' href='css/responsive.min.css' type='text/css' media='all' />
 
-	<style>
-	.logo_main img{
-		height: 70px;
-	}
-	</style>
+<?php include 'includes/head.php'; ?>
 
-</head>
 <body class="page page-id-36 page-template-default body_tag body_style_wide scheme_default blog_mode_page is_single sidebar_hide expand_content remove_margins header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
 	<div class="body_wrap">
 		<div class="page_wrap">
 			<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
-				<a class="menu_mobile_button"></a>
-				<div class="top_panel_fixed_wrap"></div>
-				<div class="top_panel_navi scheme_default">
-					<div class="menu_main_wrap clearfix">
-						<div class="wrap">
-							<a class="logo" href="index.html"><img src="images/logo3.png" class="logo_main" alt="" /></a>
-							<nav class="menu_main_nav_area menu_hover_fade">
-								<ul id="menu_main" class="menu_main_nav">
-									<li class="menu-item menu-item-has-children"><a href="index.html"><span>Home</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="index.html"><span>Home 1</span></a></li>
-											<li class="menu-item"><a href="home2.html"><span>Home 2</span></a></li>
-											<li class="menu-item"><a href="home3.html"><span>Home 3</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item"><a href="wine-list.html"><span>Unsere Weine</span></a></li>
-									<li class="menu-item menu-item-has-children"><a href="blog-archive.html"><span>The Journal</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item menu-item-has-children"><a href="blog-style-chess-2-columns-2.html"><span>Blog Style 1</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-style-chess-2-columns-2.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-chess-4-columns.html"><span>4 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-chess-6-columns.html"><span>6 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item menu-item-has-children"><a href="blog-style-2.html"><span>Blog Style 2</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-archive.html"><span>1 column</span></a></li>
-													<li class="menu-item"><a href="blog-style-2.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-classic-3-columns.html"><span>3 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item menu-item-has-children"><a href="blog-style-portfolio-2-columns.html"><span>Portfolio</span></a>
-												<ul class="sub-menu">
-													<li class="menu-item"><a href="blog-style-portfolio-2-columns.html"><span>2 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-portfolio-3-columns.html"><span>3 columns</span></a></li>
-													<li class="menu-item"><a href="blog-style-portfolio-4-columns.html"><span>4 columns</span></a></li>
-												</ul>
-											</li>
-											<li class="menu-item"><a href="post-formats.html"><span>Post Formats</span></a></li>
-											<li class="menu-item"><a href="single-post.html"><span>Post with comments</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="buy-wines.html"><span>Unser Shop</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="cart.html"><span>Cart</span></a></li>
-											<li class="menu-item"><a href="checkout.html"><span>Checkout</span></a></li>
-											<li class="menu-item"><a href="account.html"><span>My Account</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-											<li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
-											<li class="menu-item"><a href="events.html"><span>Events</span></a></li>
-											<li class="menu-item"><a href="non-existing-page.html"><span>Page 404</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children current-menu-parent"><a href="#"><span>Contacts</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="contacts.html"><span>Contact Us</span></a></li>
-											<li class="menu-item current-menu-item"><a href="index.html"><span>About Us</span></a></li>
-										</ul>
-									</li>
-								</ul>
-								<div class="search_wrap search_style_fullscreen">
-									<div class="search_form_wrap">
-										<form role="search" method="get" class="search_form" action="#">
-											<input type="text" class="search_field" placeholder="Search" value="" name="s">
-											<button type="submit" class="search_submit icon-search"></button>
-											<a class="search_close icon-cancel"></a>
-										</form>
-									</div>
-									<div class="search_results widget_area">
-										<a href="#" class="search_results_close icon-cancel"></a>
-										<div class="search_results_content"></div>
-									</div>
-								</div>
-							</nav>
-						</div>
-					</div>
-				</div>
+				<?php include 'includes/header.php'; ?>
+
 				<div class="top_panel_title_wrap">
 					<div class="content_wrap">
 						<div class="top_panel_title">
 							<div class="page_title">
-								<h1 class="page_caption">UNSER GÄSTEHAUS</h1>
+								<h1 class="page_caption">Das sind wir</h1>
 							</div>
-							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Unser Gästehaus</span></div>
+							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Über uns</span></div>
 						</div>
 					</div>
 				</div>
-				<div class="post_featured post_featured_fullwide" style="background-image:url(images/GAESTEHAUS_9.jpg);"></div>
 			</header>
+
 			<div class="menu_mobile_overlay"></div>
 			<div class="menu_mobile scheme_dark">
 				<div class="menu_mobile_inner">
@@ -217,13 +116,15 @@
 										<div class="sc_promo_text" style="width: 100%;">
 											<div class="sc_promo_text_inner sc_align_center">
 												<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
-												<h2 class="sc_item_title sc_promo_title">Gästehaus</h2>
-												<h5 class="sc_item_subtitle sc_promo_subtitle">Wohlfühlen</h5>
+												<h2 class="sc_item_title sc_promo_title">Über uns</h2>
+												<h5 class="sc_item_subtitle sc_promo_subtitle">eine Familie</h5>
 												<div class="sc_promo_content sc_item_content">
 													<div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
-															<p>Direkt in unserem Winzerhof, einem bestehenden Vierkanthof mit langer Tradition befindet sich auch unser gemütliches Gästehaus. Seit 2011 finden Sie bei uns 5 modern ausgestattete und geräumige Zimmer für bis zu 10 Personen. Diese wurden durch den Verein „Urlaub am Winzerhof“ mit der höchsten Bewertung ausgezeichnet.</p>
-															<p>Nutzen Sie unsere kostenlosen Leihfahrräder zum Erkunden des Kremstals, lassen Sie die Seele an unserem nahegelegenen Schwimmteich baumeln oder entspannen Sie bei einem Gläschen Wein in unserem Verkostungsraum. Nach einer erholsamen Nacht erwartet Sie ein ausgezeichnetes Frühstücksbuffet mit regionalen und saisonalen Köstlichkeiten.<br><br>Statten Sie uns doch nach telefonischer Vereinbarung einen Besuch auf unserem Winzerhof ab, verkosten Sie unsere hervorragenden Weine und verbringen Sie eine schöne Zeit bei uns. Wir freuen uns auf Sie!</p>
+															<b>Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich. </b>
+															<p>
+Wir sind ein traditioneller Familienbetrieb, der bereits in der 8. Generation von Franz Steinbatz und seiner Frau Renate geführt wird. Auf einer Rebfläche von rund 10 ha kultivieren wir unsere Weine. Die Reben gedeihen größtenteils auf Lössböden und sind vom pannonischen Klima geprägt. Die Weingärten werden von der ganzen Familie gepflegt und die Weine mit modernster Kellertechnik weiterverarbeitet. Die Hauptsorten sind Grüner Veltliner und Riesling im Weißweinbereich, bei den Rotweinen dominiert der Zweigelt. 
+</p>
 														</div>
 													</div>
 												</div>
@@ -367,14 +268,16 @@
 													<div class="sc_icons_description"><span>We make wine with a thought of our customers, therefore the team...</span></div>
 													<a href="#" class="sc_icons_link"></a>
 												</div>
-											</div><div class="trx_addons_column-1_3">
+											</div>
+											<div class="trx_addons_column-1_3">
 												<div class="sc_icons_item sc_icons_item_linked">
 													<div class="sc_icons_image"><img src="images/icon-02.png" alt="" width="276" height="276"></div>
 													<h4 class="sc_icons_title"><span>Our Store</span></h4>
 													<div class="sc_icons_description"><span>Integer egestas ipsum ut mi convallis lacinia pellentesque vitae lectus.</span></div>
 													<a href="#" class="sc_icons_link"></a>
 												</div>
-											</div><div class="trx_addons_column-1_3">
+											</div>
+											<div class="trx_addons_column-1_3">
 												<div class="sc_icons_item sc_icons_item_linked">
 													<div class="sc_icons_image"><img src="images/icon-03.png" alt="" width="276" height="276"></div>
 													<h4 class="sc_icons_title"><span>Royal Wine Club</span></h4>
@@ -406,41 +309,9 @@
 					</div>
 				</div>
 			</div>
-			<footer class="site_footer_wrap scheme_dark">
-				<div class="logo_footer_wrap scheme_dark">
-					<div class="logo_footer_wrap_inner">
-						<a href="index.html"><img src="images/logo-footer.png" class="logo_footer_image" alt="" /></a>
-					</div>
-				</div>
-				<div class="socials_footer_wrap socials_wrap scheme_dark">
-					<div class="socials_footer_wrap_inner">
-						<span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
-						</span>
-					</div>
-				</div>
-				<div class="menu_footer_wrap scheme_dark">
-					<div class="menu_footer_wrap_inner">
-						<nav class="menu_footer_nav_area">
-							<ul id="menu_footer" class="menu_footer_nav">
-								<li class="menu-item menu-item-143"><a href="home3.html"><span>Home</span></a></li>
-								<li class="menu-item menu-item-675"><a href="index.html"><span>Our philosophy</span></a></li>
-								<li class="menu-item menu-item-677"><a href="wine-list.html"><span>What we craft</span></a></li>
-								<li class="menu-item menu-item-147"><a href="shop.html"><span>Shop</span></a></li>
-								<li class="menu-item menu-item-676"><a href="contacts.html"><span>Privacy policy</span></a></li>
-							</ul>
-						</nav>
-					</div>
-				</div>
-				<div class="copyright_wrap scheme_dark">
-					<div class="copyright_wrap_inner">
-						<div class="content_wrap">
-							<div class="copyright_text">ThemeREX © 2017. All rights reserved.</div>
-						</div>
-					</div>
-				</div>
-			</footer>
+			
+			<?php include 'includes/footer.php'; ?>
+			
 		</div>
 	</div>
 	<script type='text/javascript' src='js/vendor/jquery.js'></script>
@@ -452,4 +323,5 @@
 	<script type='text/javascript' src='js/custom/custom.js'></script>
 	<a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
 </body>
+
 </html>

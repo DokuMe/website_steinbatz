@@ -1,9 +1,9 @@
 <a class="menu_mobile_button"></a>
 <div class="top_panel_fixed_wrap"></div>
-<div class="top_panel_navi scheme_default">
+<div class="top_panel_navi scheme_default" style="background:#fff6eb;">
   <div class="menu_main_wrap clearfix">
     <div class="wrap">
-      <a class="logo" href="index.php"><img src="images/logo3.png" class="logo_main" alt="" /></a>
+      <a class="logo" href="index.php"><img src="images/Logo3.png" class="logo_main" alt="" /></a>
       <nav class="menu_main_nav_area menu_hover_fade">
         <ul id="menu_main" class="menu_main_nav">
           <li class="menu-item"><a href="index.php"><span>Home</span></a></li>

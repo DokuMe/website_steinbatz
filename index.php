@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
 <head>
-	<title>Laon Wine House &#8211; We make wine with a thought of our customers, therefore the team &#8230;</title>
+	<title>Winzerhof Steinbatz</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -37,7 +37,7 @@
 					<div class="menu_main_wrap clearfix">
 						<div class="wrap">
 							<!--<a class="logo" href="index.html"><img src="images/logo1.png" class="logo_main" alt="" /></a>-->
-							<a class="logo" href="index.html"><img src="images/logo3.png" class="logo_main" alt="" style="height: 80px;border-radius: 5px;" /></a>
+							<a class="logo" href="index.html"><img src="images/Logo3.png" class="logo_main" alt="" style="height: 80px;border-radius: 5px;" /></a>
 						</div>
 					</div>
 				</div>
@@ -227,7 +227,7 @@
 								<div id="blackRow">&nbsp;</div>
 
 <!--<div class="row row-no-padding row-o-full-height row-o-columns-middle">-->
-								<div class="row row-no-padding row-o-full-height row-o-columns-middle">
+								<div class="row row-no-padding row-o-full-height row-o-columns-middle" style="background: #fff6eb;">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wrap">
@@ -288,7 +288,7 @@
 																	</figure>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="contacts.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Our Plantation</span></span> </a>																</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="contacts.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Plantage</span></span> </a>																</div>
 														</div>
 													</div>
 												</div>
@@ -307,9 +307,9 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
 															<h2 class="sc_item_title sc_promo_title">Unser Gästehaus</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">We make wine with a thought of our customers, therefore the team...</h5>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb das Team....</h5>
 															<div class="sc_item_descr sc_promo_descr">Direkt in unserem Winzerhof, einem bestehenden Vierkanthof mit langer Tradition befindet sich auch unser gemütliches Gästehaus. Seit 2011 finden Sie bei uns 5 modern ausgestattete und geräumige Zimmer für bis zu 10 Personen. Diese wurden durch den Verein „Urlaub am Winzerhof“ mit der höchsten Bewertung ausgezeichnet.</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="about-us.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Our Philosophy</span></span> </a>																</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="about-us.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Philosophie</span></span> </a>																</div>
 														</div>
 													</div>
 												</div>
@@ -351,7 +351,7 @@
 																	<div class="post_item post_layout_thumbs">
 																		<div class="post_featured hover_shop">
 																			<a href="product.html">
-																				<img width="360" height="480" src="images/wein_1.png" alt="FineWines_ReevesPoint_Chardonnay_43x2" title="FineWines_ReevesPoint_Chardonnay_43x2" /> </a>
+																				<img width="360" height="480" src="images/WEIN_1.png" alt="FineWines_ReevesPoint_Chardonnay_43x2" title="FineWines_ReevesPoint_Chardonnay_43x2" /> </a>
 																			<div class="mask"></div>
 																			<div class="icons">
 																				<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -372,7 +372,7 @@
 																	<div class="post_item post_layout_thumbs">
 																		<div class="post_featured hover_shop">
 																			<a href="product.html">
-																				<img width="360" height="480" src="images/wein_2.png" alt="ASoqsTZh-FineWines_Steingarten_Riesling_43x2" title="ASoqsTZh-FineWines_Steingarten_Riesling_43x2" /> </a>
+																				<img width="360" height="480" src="images/WEIN_2.png" alt="ASoqsTZh-FineWines_Steingarten_Riesling_43x2" title="ASoqsTZh-FineWines_Steingarten_Riesling_43x2" /> </a>
 																			<div class="mask"></div>
 																			<div class="icons">
 																				<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="405" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -394,7 +394,7 @@
 																	<div class="post_item post_layout_thumbs">
 																		<div class="post_featured hover_shop">
 																			<a href="product.html">
-																				<img width="360" height="480" src="images/wein_3.png" alt="kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2" title="kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2" /> </a>
+																				<img width="360" height="480" src="images/WEIN_3.png" alt="kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2" title="kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2" /> </a>
 																			<div class="mask"></div>
 																			<div class="icons">
 																				<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="406" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -410,7 +410,7 @@
 																			</div>
 																			<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>595<span class="decimals">00</span></span>
 																			</span>
-																			<a rel="nofollow" href="#" data-quantity="1" data-product_id="406" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+																			<a rel="nofollow" href="#" data-quantity="1" data-product_id="406" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Jetzt kaufen</a> </div>
 																	</div>
 																</li>
 															</ul>
@@ -428,10 +428,10 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-bottles"><span class="icon-bottles"></span></div>
 															<h2 class="sc_item_title sc_promo_title">Unsere Weine</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">We make wine with a thought of our customers, therefore the team...</h5>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb das Team....</h5>
 															<div class="sc_item_descr sc_promo_descr">Vor allem der Grüne Veltliner ist in Niederösterreich sehr weit verbreitet und auch auf den Anbauflächen unseres Winzerhofes macht er den größten Anteil aus. Im Kremstal und in der Wachau findet diese Rebe im Lössboden und dem besonders milden Klima optimale Voraussetzungen.
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="wine-list.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Wine List</span></span> </a>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="wine-list.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Wein Liste</span></span> </a>
 															</div>
 														</div>
 													</div>
@@ -480,7 +480,7 @@
 								</div>
 							</div>
 					</div>
-					<div class="row row-no-padding row-o-full-height row-o-columns-middle">
+					<div class="row row-no-padding row-o-full-height row-o-columns-middle" style="background: #fff6eb;">
 						<div class="wpb_column vc_column_container column-12_12">
 							<div class="vc_column-inner ">
 								<div class="wrap">
@@ -492,13 +492,13 @@
 												<div class="sc_icons_item sc_icons_item_linked">
 													<div class="sc_icons_image"><img src="http://laonwine-html.themerex.net/images/icon-01.png" alt="" width="276" height="276"></div>
 													<h4 class="sc_icons_title"><span>Awards</span></h4>
-													<div class="sc_icons_description"><span>We make wine with a thought of our customers, therefore the team...</span></div>
+													<div class="sc_icons_description"><span>Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb das Team....</span></div>
 													<a href="#" class="sc_icons_link"></a>
 												</div>
 											</div><div class="trx_addons_column-1_3">
 												<div class="sc_icons_item sc_icons_item_linked">
 													<div class="sc_icons_image"><img src="http://laonwine-html.themerex.net/images/icon-02.png" alt="" width="276" height="276"></div>
-													<h4 class="sc_icons_title"><span>Our Store</span></h4>
+													<h4 class="sc_icons_title"><span>Unser Shop</span></h4>
 													<div class="sc_icons_description"><span>Integer egestas ipsum ut mi convallis lacinia pellentesque vitae lectus.</span></div>
 													<a href="#" class="sc_icons_link"></a>
 												</div>
@@ -531,14 +531,14 @@
 										<div class="sc_promo_text sc_float_center" style="width: 100%;">
 											<div class="sc_promo_text_inner sc_align_center">
 												<div class="sc_promo_icon" data-icon="icon-winery"><span class="icon-winery"></span></div>
-												<h2 class="sc_item_title sc_promo_title">Get in touch</h2>
-												<h5 class="sc_item_subtitle sc_promo_subtitle">We make wine with a thought of our customers, therefore the team...</h5>
+												<h2 class="sc_item_title sc_promo_title">Kontakt aufnehmen</h2>
+												<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb ist das Team...</h5>
 												<div class="sc_promo_content sc_item_content">
 													<div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
-															<p><em><strong>Address:</strong></em><br/> 3867 Robinson Road, Historic Oaklawn Plantation</p>
-															<p><em><strong>Telephone:</strong></em><br/> +1 939 381 84 11</p>
-															<p><em><strong>E-mail:</strong></em><br/> clifton.carter20@laon.com
+															<p><em><strong>Adresse:</strong></em><br/> Hauptstraße 40, 3494 Brunn im Felde</p>
+															<p><em><strong>Telefon:</strong></em><br/> +43 676 3769440</p>
+															<p><em><strong>E-mail:</strong></em><br/> winzerhof.steinbatz@aon.at
 															</p>
 														</div>
 													</div>

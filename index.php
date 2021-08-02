@@ -113,7 +113,74 @@
 					<div class="content">
 						<article id="post-691" class="post_item_single post_type_page post-691 page type-page">
 							<div class="post_content entry-content">
+
+								<!--Slider START-->
+								<div class="wrap header-slider">
+									<div class="wpb_revslider_element wpb_content_element">
+										<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+											<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.5.4">
+												<ul>
+													<li data-index="rs-387" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0"
+																	data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" class="shop_slider_slide" data-title="Shiraz Cabernet" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
+																	data-param7="" data-param8="" data-param9="" data-param10="" data-description="GESCHMACK: Delicate fresh blossom aromas teamed with juicy lemon flavours. DUFT: Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity. KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing.">
+														<img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"	data-bgparallax="off" class="rev-slidebg" data-no-retina>
+														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-387-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;" data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;">
+															<img src="images/blauerzweigelt2018a.png" width="540" height="720" data-no-retina alt="" /> </div>
+														<div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-387-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645.00</span>
+														</div>
+														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html">Blauer Zweigelt</a> </h1>
+														<div class="tp-caption shop_slider_content    shop-slide-descr" id="slide-387-layer-5" data-x="right" data-hoffset="118" data-y="center" data-voffset="-35" data-width="['330']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:750;e:Power2.easeInOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="1320" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" style="z-index: 8; min-width: 330px; max-width: 330px; white-space: normal;"><strong>GESCHMACK:</strong> Delicate fresh blossom aromas teamed with juicy lemon flavours.
+															<strong>DUFT:</strong> Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity.
+															<strong>KOMPONIEREN:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing. </div>
+														<h2 class="tp-caption shop_slider_tags   tp-resizeme  shop-slide-title" id="slide-387-layer-7" data-x="43" data-y="185" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="840" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html" rel="tag">2018</a> </h2>
+														<div class="tp-caption shop_slider_add_to_cart   tp-resizeme  shop-slide-price" id="slide-387-layer-9" data-x="253" data-y="bottom" data-voffset="210" data-width="['220']" data-height="['55']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 220px; max-width: 220px; max-width: 55px; max-width: 55px; white-space: normal;text-transform:uppercase;"><a href="product.html" class="shop_slider_add_to_cart_button">Shop Now</a> </div>
+														<div class="tp-caption shop_slider_label   tp-resizeme" id="slide-387-layer-10" data-x="center" data-hoffset="-110" data-y="center" data-voffset="45" data-width="['190']" data-height="['190']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Elastic.easeOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 11; min-width: 190px; max-width: 190px; max-width: 190px; max-width: 190px; white-space: normal;"><span>GOLD</span>
+															<span>winner</span> </div>
+													</li>
+													<li data-index="rs-439" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0"
+																	data-saveperformance="off" class="shop_slider_slide" data-title="Sparkling Trilogy" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10=""
+																	data-description="GESCHMACK: Delicate 
+">
+														<img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+																		data-bgparallax="off" class="rev-slidebg" data-no-retina />
+														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-439-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;"
+																		data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;"><img src="images/Sparkling_Trilogy_CuveeBrut_43x2-540x720.png" width="540" height="720" data-no-retina  alt=""/> </div>
+														<div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-439-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>215.95</span>
+														</div>
+														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-439-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product/sparkling-trilogy-cuvee-brut/index.html">Sparkling Trilogy</a> </h1>
+														<div class="tp-caption shop_slider_content    shop-slide-descr" id="slide-439-layer-5" data-x="right" data-hoffset="118" data-y="center" data-voffset="-35" data-width="['330']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:750;e:Power2.easeInOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="1320" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" style="z-index: 8; min-width: 330px; max-width: 330px; white-space: normal;"><strong>GESCHMACK:</strong> Delicate fresh blossom aromas teamed with juicy lemon flavours.
+															<strong>DUFT:</strong> Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity.
+															<strong>KOMPONIEREN:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing. </div>
+														<h2 class="tp-caption shop_slider_tags   tp-resizeme  shop-slide-title" id="slide-439-layer-7" data-x="43" data-y="185" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="840" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html" rel="tag">2018</a> </h2>
+														<div class="tp-caption shop_slider_add_to_cart   tp-resizeme  shop-slide-price" id="slide-439-layer-9" data-x="253" data-y="bottom" data-voffset="210" data-width="['220']" data-height="['55']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 220px; max-width: 220px; max-width: 55px; max-width: 55px; white-space: normal;text-transform:uppercase;"><a href="product/sparkling-trilogy-cuvee-brut/index.html" class="shop_slider_add_to_cart_button">Shop Now</a> </div>
+														<div class="tp-caption shop_slider_label   tp-resizeme" id="slide-439-layer-10" data-x="center" data-hoffset="-110" data-y="center" data-voffset="45" data-width="['190']" data-height="['190']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Elastic.easeOut;"
+																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 11; min-width: 190px; max-width: 190px; max-width: 190px; max-width: 190px; white-space: normal;"><span>GOLD</span>
+															<span>winner</span> </div>
+													</li>
+												</ul>
+												<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--Slider END-->
+
+
 								<div class="row row-no-padding vc_custom_1469089433188 row-o-full-height row-o-columns-middle">
+
+
+								
+
 									<div class="wpb_column vc_column_container column-3_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
@@ -588,10 +655,19 @@
 	<script type='text/javascript' src='js/vendor/jquery.js'></script>
 	<script type='text/javascript' src='js/vendor/jquery-migrate.min.js'></script>
 	<script type='text/javascript' src='js/vendor/plugins/trx_addons/js/trx_addons.js'></script>
-	<script type='text/javascript' src='js/__scripts.js'></script>
-	<script type='text/javascript' src='js/custom/custom.js'></script>
 	<script type='text/javascript' src='js/vendor/plugins/vc-extensions-bundle/profilecard/js/jquery.tooltipster.min.js'></script>
 	<script type='text/javascript' src='js/vendor/plugins/vc-extensions-bundle/hotspot/js/script.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/extensions/revolution.extension.parallax.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js'></script>
+	<script type='text/javascript' src='js/vendor/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js'></script>
+	<script type='text/javascript' src='js/custom/rev_slider_1_1.js'></script>
+	<script type='text/javascript' src='js/__scripts.js'></script>
+	<script type='text/javascript' src='js/custom/custom.js'></script>
+	
 	<a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
 </body>
 </html>

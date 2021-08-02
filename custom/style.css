@@ -63,6 +63,20 @@
 }
 /*Menu END*/
 
+/*Header Slider START*/
+.menu_style_side .wrap.header-slider {
+  width: 100%;
+}
+
+.scheme_default .tp-bullets.custom .tp-bullet {
+  border-color: #fff;
+}
+
+.scheme_default .tp-bullets.custom .tp-bullet.selected {
+  border-color: #fff;
+  background-color: #fff;
+}
+
 .logo_footer_wrap_inner img {
   height: 80px;
 }

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
-<head>
+<!-- <head>
 	<title>Winzerhof Steinbatz</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -20,12 +20,15 @@
 	<link rel='stylesheet' id='laon_wine_house-responsive-css' href='css/responsive.min.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='vc_hotspot_cq_style-css' href='js/vendor/plugins/vc-extensions-bundle/hotspot/css/style.min.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='tooltipster-css' href='js/vendor/plugins/vc-extensions-bundle/profilecard/css/tooltipster.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='laon_wine_house-custom-css' href='custom/style.css' type='text/css' media='all' />
 	<style>
 	.scheme_default .sc_icons .sc_icons_title {
 			color: #2A2A2A;
 		}
 	</style>
-</head>
+</head> -->
+
+<?php include 'includes/head.php'; ?>
 
 <body class="home page page-id-691 page-template-default body_tag body_style_wide scheme_default blog_mode_home  is_stream blog_style_excerpt sidebar_hide expand_content remove_margins header_style_header-1 header_position_over header_title_off menu_style_side no_layout vc_responsive">
 	<div class="body_wrap">

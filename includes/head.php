@@ -20,6 +20,12 @@
 	<link rel='stylesheet' id='laon_wine_house-styles-css' href='css/__styles.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='laon_wine_house-custom-css' href='css/custom.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='laon_wine_house-responsive-css' href='css/responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='vc_hotspot_cq_style-css' href='js/vendor/plugins/vc-extensions-bundle/hotspot/css/style.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='tooltipster-css' href='js/vendor/plugins/vc-extensions-bundle/profilecard/css/tooltipster.css' type='text/css' media='all' />
 	<link rel="stylesheet" href="custom/style.css">
-
+	<style>
+		.scheme_default .sc_icons .sc_icons_title {
+				color: #2A2A2A;
+			}
+	</style>
 </head>

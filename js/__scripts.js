@@ -1825,6 +1825,7 @@ function laon_wine_house_check_layout() {
     if (jQuery('body').hasClass('no_layout')) jQuery('body').removeClass('no_layout');
     var w = window.innerWidth;
     if (w == undefined) w = jQuery(window).width() + (jQuery(window).height() < jQuery(document).height() || jQuery(window).scrollTop() > 0 ? 16 : 0);
+    
     if (LAON_WINE_HOUSE_STORAGE['mobile_layout_width'] >= w) {
         if (!jQuery('body').hasClass('mobile_layout')) {
             jQuery('body').removeClass('top_panel_fixed desktop_layout').addClass('mobile_layout');
@@ -1837,6 +1838,12 @@ function laon_wine_house_check_layout() {
             jQuery('.menu_mobile_overlay').hide();
         }
     }
+
+    /*Burger Menu always there:*/
+    /*jQuery('body').removeClass('top_panel_fixed desktop_layout').addClass('mobile_layout');
+    jQuery('.top_panel_navi').removeClass('state_fixed');*/
+
+
     var cat_menu = jQuery('body:not(.woocommerce) .widget_area:not(.footer_wrap) .widget_product_categories ul.product-categories');
     var sb = cat_menu.parents('.widget_area');
     if (sb.length > 0 && cat_menu.length > 0) {

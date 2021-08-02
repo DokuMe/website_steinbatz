@@ -4,12 +4,12 @@
   padding-right: 0;
 } */
 
-.menu_mobile {
-  width: 100%;
-  margin-right: -100%;
-}
-
 @media (min-width: 959px) {
+  .menu_mobile {
+    width: 100%;
+    margin-right: -100%;
+  }
+  
   .menu_mobile_inner {
     padding: 10em 2em 6em 2em;
   }

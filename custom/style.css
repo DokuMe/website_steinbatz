@@ -4,58 +4,72 @@
   padding-right: 0;
 } */
 
-@media (min-width: 959px) {
-  .menu_mobile {
-    width: 100%;
-    margin-right: -100%;
-  }
-  
-  .menu_mobile_inner {
-    padding: 10em 2em 6em 2em;
-  }
-  
-  .scheme_dark .menu_side_inner, .scheme_dark .menu_mobile_inner {
-    background-color: rgba(10,10,10,0.85)
-  }
+.menu_mobile {
+  width: 100%;
+  margin-right: -100%;
+}
 
+.menu_mobile_inner {
+  padding: 10em 2em 6em 2em;
+}
+
+.scheme_dark .menu_side_inner, .scheme_dark .menu_mobile_inner {
+  background-color: rgba(10,10,10,0.85)
+}
+
+.menu_mobile .menu_mobile_nav_area ul li {
+  font-weight: 700;
+  padding-right: .5rem;
+}
+
+.menu_mobile .menu_mobile_nav_area li.menu-item-has-children>a {
+  padding-right: 0;
+}
+
+.menu_mobile .menu_mobile_nav>.menu-item {
+  border-bottom: 1px solid #e39a31;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+.menu_mobile .menu_mobile_nav>.menu-item:last-child {
+  margin-right: 0;
+  border-bottom: none;
+  border-right: none;
+}
+
+.open_child_menu {
+  display: none;
+}
+
+.menu_mobile .menu_mobile_nav_area ul .sub-menu li {
+  font-weight: 300;
+  padding-right: 0rem;
+}
+
+.menu_mobile .menu_mobile_nav_area ul ul {
+  display: block !important;
+  margin-left: .5rem;
+}
+
+.menu_mobile .socials_mobile {
+  position: static;
+  margin: 0;
+}
+
+@media (min-width: 959px) {
   .menu_mobile .menu_mobile_nav_area ul {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   }
 
-  .menu_mobile .menu_mobile_nav_area ul li {
-    font-weight: 700;
-    padding-right: .5rem;
-  }
-
-  .menu_mobile .menu_mobile_nav_area li.menu-item-has-children>a {
-    padding-right: 0;
-  }
-
   .menu_mobile .menu_mobile_nav>.menu-item {
     margin-right: .5rem;
     border-right: 1px solid #e39a31;
-  }
-
-  .menu_mobile .menu_mobile_nav>.menu-item:last-child {
-    margin-right: 0;
-    border-right: none;
-  }
-  
-  .open_child_menu {
-    display: none;
-  }
-  
-  .menu_mobile .menu_mobile_nav_area ul .sub-menu li {
-    font-weight: 300;
-    padding-right: 0rem;
-  }
-  
-  .menu_mobile .menu_mobile_nav_area ul ul {
-    display: block !important;
-    margin-left: .5rem;
+    border-bottom: none;
   }
 }
+
 @media (min-width: 1300px) {
   .menu_mobile_inner {
     padding: 10em 9em 6em 9em;

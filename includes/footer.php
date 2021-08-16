@@ -17,7 +17,7 @@
 			<nav class="menu_footer_nav_area">
 				<ul id="menu_footer" class="menu_footer_nav">
 					<li class="menu-item menu-item-143"><a href="index.php"><span>Home</span></a></li>
-					<li class="menu-item menu-item-676"><a href="shop.php"><span>Shop</span></a></li>
+					<li class="menu-item menu-item-676"><a href="buy-wines.php"><span>Shop</span></a></li>
 					<li class="menu-item menu-item-677"><a href="privacy.php"><span>Datenschutz</span></a></li>
 					<li class="menu-item menu-item-147"><a href="impress.php"><span>Impressum</span></a></li>
 					<li class="menu-item menu-item-675"><a href="contacts.php"><span>Kontakt</span></a></li>

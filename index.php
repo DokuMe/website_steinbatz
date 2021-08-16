@@ -80,7 +80,7 @@
 							<li class="menu-item"><a href="wine-list.php"><span>Kontakt</span></a></li>
 							<li class="menu-item"><a href="buy-wines.php"><span>Online Shop</span></a></li>
 
-							<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Unser Shop</span></a>
+							<!-- <li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Unser Shop</span></a>
 								<ul class="sub-menu">
 									<li class="menu-item"><a href="cart.php"><span>Cart</span></a></li>
 									<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
@@ -91,7 +91,7 @@
 								<ul class="sub-menu">
 									<li class="menu-item"><a href="contacts.php"><span>Contact Us</span></a></li>
 								</ul>
-							</li>
+							</li> -->
 						</ul>
 					</nav>
 					<div class="search_mobile">
@@ -121,52 +121,44 @@
 										<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
 											<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.5.4">
 												<ul>
-													<li data-index="rs-387" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0"
-																	data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" class="shop_slider_slide" data-title="Shiraz Cabernet" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
-																	data-param7="" data-param8="" data-param9="" data-param10="" data-description="GESCHMACK: Delicate fresh blossom aromas teamed with juicy lemon flavours. DUFT: Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity. KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing.">
-														<img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"	data-bgparallax="off" class="rev-slidebg" data-no-retina>
+													<li data-index="rs-387" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" class="shop_slider_slide" data-title="Shiraz Cabernet" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="GESCHMACK: Delicate fresh blossom aromas teamed with juicy lemon flavours. DUFT: Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity. KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing.">
+														<!-- <img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"	data-bgparallax="off" class="rev-slidebg" data-no-retina> -->
 														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-387-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;" data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;">
-															<img src="images/blauerzweigelt2018a.png" width="540" height="720" data-no-retina alt="" /> </div>
-														<div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-387-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645.00</span>
+															<img src="images/steinbatz/reben2.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
-														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html">Blauer Zweigelt</a> </h1>
-														<div class="tp-caption shop_slider_content    shop-slide-descr" id="slide-387-layer-5" data-x="right" data-hoffset="118" data-y="center" data-voffset="-35" data-width="['330']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:750;e:Power2.easeInOut;"
+														<!-- <div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-387-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645.00</span>
+														</div> -->
+														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN </a> </h1>
+														<!-- <div class="tp-caption shop_slider_content    shop-slide-descr" id="slide-387-layer-5" data-x="right" data-hoffset="118" data-y="center" data-voffset="-35" data-width="['330']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:750;e:Power2.easeInOut;"
 																		data-transform_out="opacity:0;s:300;" data-start="1320" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" style="z-index: 8; min-width: 330px; max-width: 330px; white-space: normal;"><strong>GESCHMACK:</strong> Delicate fresh blossom aromas teamed with juicy lemon flavours.
 															<strong>DUFT:</strong> Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity.
-															<strong>KOMPONIEREN:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing. </div>
-														<h2 class="tp-caption shop_slider_tags   tp-resizeme  shop-slide-title" id="slide-387-layer-7" data-x="43" data-y="185" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="840" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html" rel="tag">2018</a> </h2>
-														<div class="tp-caption shop_slider_add_to_cart   tp-resizeme  shop-slide-price" id="slide-387-layer-9" data-x="253" data-y="bottom" data-voffset="210" data-width="['220']" data-height="['55']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 220px; max-width: 220px; max-width: 55px; max-width: 55px; white-space: normal;text-transform:uppercase;"><a href="product.html" class="shop_slider_add_to_cart_button">Shop Now</a> </div>
-														<div class="tp-caption shop_slider_label   tp-resizeme" id="slide-387-layer-10" data-x="center" data-hoffset="-110" data-y="center" data-voffset="45" data-width="['190']" data-height="['190']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Elastic.easeOut;"
+															<strong>KOMPONIEREN:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing. </div> -->
+														<!-- <h2 class="tp-caption shop_slider_tags   tp-resizeme  shop-slide-title" id="slide-387-layer-7" data-x="43" data-y="185" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="840" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html" rel="tag">2018</a> </h2>
+														<div class="tp-caption shop_slider_add_to_cart   tp-resizeme  shop-slide-price" id="slide-387-layer-9" data-x="253" data-y="bottom" data-voffset="210" data-width="['220']" data-height="['55']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 220px; max-width: 220px; max-width: 55px; max-width: 55px; white-space: normal;text-transform:uppercase;"><a href="product.html" class="shop_slider_add_to_cart_button">Shop Now</a> </div> -->
+														<!-- <div class="tp-caption shop_slider_label   tp-resizeme" id="slide-387-layer-10" data-x="center" data-hoffset="-110" data-y="center" data-voffset="45" data-width="['190']" data-height="['190']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Elastic.easeOut;"
 																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 11; min-width: 190px; max-width: 190px; max-width: 190px; max-width: 190px; white-space: normal;"><span>GOLD</span>
-															<span>winner</span> </div>
+															<span>winner</span> </div> -->
 													</li>
-													<li data-index="rs-439" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0"
-																	data-saveperformance="off" class="shop_slider_slide" data-title="Sparkling Trilogy" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10=""
-																	data-description="GESCHMACK: Delicate 
+
+													<li data-index="rs-439" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" class="shop_slider_slide" data-title="Sparkling Trilogy" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="GESCHMACK: Delicate 
 ">
-														<img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
-																		data-bgparallax="off" class="rev-slidebg" data-no-retina />
-														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-439-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;"
-																		data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;"><img src="images/Sparkling_Trilogy_CuveeBrut_43x2-540x720.png" width="540" height="720" data-no-retina  alt=""/> </div>
-														<div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-439-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>215.95</span>
+														<!-- <img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+														data-bgparallax="off" class="rev-slidebg" data-no-retina /> -->
+														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-439-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;" data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;">
+															<img src="images/steinbatz/reben1.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
-														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-439-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product/sparkling-trilogy-cuvee-brut/index.html">Sparkling Trilogy</a> </h1>
-														<div class="tp-caption shop_slider_content    shop-slide-descr" id="slide-439-layer-5" data-x="right" data-hoffset="118" data-y="center" data-voffset="-35" data-width="['330']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:750;e:Power2.easeInOut;"
+														<!-- <div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-439-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>215.95</span>
+														</div> -->
+														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-439-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product/sparkling-trilogy-cuvee-brut/index.html">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN </a> </h1>
+														<!-- <div class="tp-caption shop_slider_content    shop-slide-descr" id="slide-439-layer-5" data-x="right" data-hoffset="118" data-y="center" data-voffset="-35" data-width="['330']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:750;e:Power2.easeInOut;"
 																		data-transform_out="opacity:0;s:300;" data-start="1320" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" style="z-index: 8; min-width: 330px; max-width: 330px; white-space: normal;"><strong>GESCHMACK:</strong> Delicate fresh blossom aromas teamed with juicy lemon flavours.
 															<strong>DUFT:</strong> Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity.
-															<strong>KOMPONIEREN:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing. </div>
-														<h2 class="tp-caption shop_slider_tags   tp-resizeme  shop-slide-title" id="slide-439-layer-7" data-x="43" data-y="185" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="840" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html" rel="tag">2018</a> </h2>
-														<div class="tp-caption shop_slider_add_to_cart   tp-resizeme  shop-slide-price" id="slide-439-layer-9" data-x="253" data-y="bottom" data-voffset="210" data-width="['220']" data-height="['55']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;"
-																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 220px; max-width: 220px; max-width: 55px; max-width: 55px; white-space: normal;text-transform:uppercase;"><a href="product/sparkling-trilogy-cuvee-brut/index.html" class="shop_slider_add_to_cart_button">Shop Now</a> </div>
-														<div class="tp-caption shop_slider_label   tp-resizeme" id="slide-439-layer-10" data-x="center" data-hoffset="-110" data-y="center" data-voffset="45" data-width="['190']" data-height="['190']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Elastic.easeOut;"
+															<strong>KOMPONIEREN:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing. </div> -->
+														<!-- <h2 class="tp-caption shop_slider_tags   tp-resizeme  shop-slide-title" id="slide-439-layer-7" data-x="43" data-y="185" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="840" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 9; min-width: 470px; max-width: 470px; white-space: normal;"><a href="product.html" rel="tag">2018</a> </h2>
+														<div class="tp-caption shop_slider_add_to_cart   tp-resizeme  shop-slide-price" id="slide-439-layer-9" data-x="253" data-y="bottom" data-voffset="210" data-width="['220']" data-height="['55']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 10; min-width: 220px; max-width: 220px; max-width: 55px; max-width: 55px; white-space: normal;text-transform:uppercase;"><a href="product/sparkling-trilogy-cuvee-brut/index.html" class="shop_slider_add_to_cart_button">Shop Now</a> </div> -->
+														<!-- <div class="tp-caption shop_slider_label   tp-resizeme" id="slide-439-layer-10" data-x="center" data-hoffset="-110" data-y="center" data-voffset="45" data-width="['190']" data-height="['190']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Elastic.easeOut;"
 																		data-transform_out="opacity:0;s:300;" data-start="2390" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 11; min-width: 190px; max-width: 190px; max-width: 190px; max-width: 190px; white-space: normal;"><span>GOLD</span>
-															<span>winner</span> </div>
+															<span>winner</span> </div> -->
 													</li>
 												</ul>
 												<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
@@ -178,9 +170,6 @@
 
 
 								<div class="row row-no-padding vc_custom_1469089433188 row-o-full-height row-o-columns-middle">
-
-
-								
 
 									<div class="wpb_column vc_column_container column-3_12">
 										<div class="vc_column-inner ">
@@ -227,7 +216,8 @@
 												</div>
 											</div>
 										</div>
-									</div><div class="wpb_column vc_column_container column-6_12">
+									</div>
+									<div class="wpb_column vc_column_container column-6_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
 												<div class="vc_empty_space  height_huge" style="height: 0px"></div>
@@ -240,14 +230,15 @@
 												<div class="vc_empty_space  height_medium" style="height: 0px"></div>
 												<div class="wpb_text_column wpb_content_element  vc_custom_1469087355036">
 													<div class="wpb_wrapper">
-														<p style="text-align: center; font-size: 42px; letter-spacing: 2px; line-height: 1em;"><strong><span style="color: #ffffff;">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN  </span></strong></p>
+														<p style="text-align: center; font-size: 42px; letter-spacing: 2px; line-height: 1em;"><strong><span style="color: #ffffff;">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN </span></strong></p>
 													</div>
 												</div>
 												<div class="vc_empty_space  height_huge" style="height: 0px"></div>
 												<div class="vc_empty_space  height_huge" style="height: 0px"></div>
 											</div>
 										</div>
-									</div><div class="wpb_column vc_column_container column-3_12">
+									</div>
+									<div class="wpb_column vc_column_container column-3_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
 												<div style="width:;" class="cqtooltip-wrapper hide_on_mobile" data-opacity="1" data-tooltipanimation="grow" data-tooltipstyle="light" data-trigger="hover" data-maxwidth="210" data-marginoffset="" data-isdisplayall="off" data-displayednum="1"><img src="http://laonwine-html.themerex.net/images/spacer.png" alt="" />
@@ -297,13 +288,11 @@
 
 								<div id="blackRow">&nbsp;</div>
 
-<!--<div class="row row-no-padding row-o-full-height row-o-columns-middle">-->
-								<div class="row row-no-padding row-o-full-height row-o-columns-middle" style="background: #fff6eb;">
+								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-middle" style="background: #fff6eb;">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wrap">
 												<a id="sc_anchor_awards" class="sc_anchor" title="Our awards" data-icon="" data-url=""></a>
-												<!--	<div class="vc_empty_space  height_small" style="height: 0px"></div>-->
 												<div class="sc_icons sc_icons_default sc_icons_size_medium sc_align_center">
 													<div class="sc_icons_columns sc_item_columns trx_addons_columns_wrap columns_padding_bottom">
 														<div class="trx_addons_column-1_3">
@@ -330,14 +319,10 @@
 														</div>
 													</div>
 												</div>
-											<!--	<div class="vc_empty_space  height_small" style="height: 0px"></div>-->
 											</div>
 										</div>
 									</div>
-								</div>
-
-
-<!--<div id="blackRow1">&nbsp;</div>-->
+								</div> -->
 
 								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height">
 									<div class="wpb_column vc_column_container column-12_12">
@@ -349,17 +334,17 @@
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
-															<h2 class="sc_item_title sc_promo_title">Favourite Place</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Erholen - in unserem Ursprung</h5>
-															<div class="sc_item_descr sc_promo_descr">Weltkulturerbe und Wohlfühllandschaft - das ist unsere schöne Wachau zwischen Melk und Krems. Unser Winzerhof mit dazugehörigem Gästehaus liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich. Das Kremstal ist bekannt für seine Wein-, Ess-, Bau- und Museumskultur, hier bei uns sind allerlei angenehme Kulturen zu einem Gesamtkulturgut vereinigt. Die geschützte Lage zum kühlen Waldviertel, die fruchtbaren Hänge zum Donautal hin und die breite, ruhig fließende Donau selbst - nicht nur den Menschen gefällt es im Kremstal, sondern auch der Wein fühlt sich sehr wohl.</div>
-															<div class="sc_promo_content sc_item_content">
+															<h2 class="sc_item_title sc_promo_title">Über uns</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich.</h5>
+															<div class="sc_item_descr sc_promo_descr">Wir sind ein traditioneller Familienbetrieb, der bereits in der 8. Generation von Franz Steinbatz und seiner Frau Renate geführt wird. Auf einer Rebfläche von rund 10 ha kultivieren wir unsere Weine. Die Hauptsorten sind Grüner Veltliner und Riesling im Weißweinbereich, bei den Rotweinen dominiert der Zweigelt. Unsere Reben gedeihen größtenteils auf Lössböden und sind vom pannonischen Klima geprägt. Die Weingärten werden von der ganzen Familie gepflegt und die Weine mit modernster Kellertechnik weiterverarbeitet.</div>
+															<!-- <div class="sc_promo_content sc_item_content">
 																<div class="wpb_single_image wpb_content_element vc_align_center">
 																	<figure class="wpb_wrapper vc_figure">
 																		<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="297" height="105" src="http://laonwine-html.themerex.net/images/sinature.png" class="vc_single_image-img attachment-full" alt="sinature" /></div>
 																	</figure>
 																</div>
-															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="contacts.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Plantage</span></span> </a>																</div>
+															</div> -->
+															<!-- <div class="sc_item_button sc_promo_button sc_button_wrap"><a href="contacts.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Plantage</span></span> </a>																</div> -->
 														</div>
 													</div>
 												</div>
@@ -377,10 +362,20 @@
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
-															<h2 class="sc_item_title sc_promo_title">Unser Gästehaus</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb das Team....</h5>
-															<div class="sc_item_descr sc_promo_descr">Direkt in unserem Winzerhof, einem bestehenden Vierkanthof mit langer Tradition befindet sich auch unser gemütliches Gästehaus. Seit 2011 finden Sie bei uns 5 modern ausgestattete und geräumige Zimmer für bis zu 10 Personen. Diese wurden durch den Verein „Urlaub am Winzerhof“ mit der höchsten Bewertung ausgezeichnet.</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="about-us.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Philosophie</span></span> </a>																</div>
+															<h2 class="sc_item_title sc_promo_title">Gästehaus</h2>
+															<!-- <h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb das Team....</h5> -->
+															<div class="sc_item_descr sc_promo_descr">
+																<p>
+																	Direkt in unserem Winzerhof, einem bestehenden Vierkanthof mit langer Tradition befindet sich auch unser gemütliches Gästehaus. Seit 2011 finden Sie bei uns 5 modern ausgestattete und geräumige Zimmer für bis zu 10 Personen. Diese wurden durch den Verein „Urlaub am Winzerhof“ mit der höchsten Bewertung ausgezeichnet. Nutzen Sie unsere kostenlosen Leihfahrräder zum Erkunden des Kremstals, lassen Sie die Seele an unserem nahegelegenen Schwimmteich baumeln oder entspannen Sie bei einem Gläschen Wein in unserem Verkostungsraum.
+																</p>
+																<p>
+																	Nach einer erholsamen Nacht erwartet Sie ein ausgezeichnetes Frühstücksbuffet mit regionalen und saisonalen Köstlichkeiten.
+																</p>
+																<p>
+																	Statten Sie uns doch nach telefonischer Vereinbarung einen Besuch auf unserem Winzerhof ab, verkosten Sie unsere hervorragenden Weine und verbringen Sie eine schöne Zeit bei uns. Wir freuen uns auf Sie!
+																</p>
+															</div>
+															<!-- <div class="sc_item_button sc_promo_button sc_button_wrap"><a href="about-us.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Philosophie</span></span> </a></div> -->
 														</div>
 													</div>
 												</div>
@@ -388,7 +383,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="row row-no-padding row-o-full-height row-o-columns-middle">
+								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-middle">
 									<div class="wpb_column vc_column_container column-6_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
@@ -510,8 +505,9 @@
 											</div>
 										</div>
 									</div>
-							</div>
-							<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height">
+							</div> -->
+
+								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height">
 								<div class="wpb_column vc_column_container column-6_12">
 									<div class="vc_column-inner ">
 										<div class="wpb_wrapper">
@@ -527,7 +523,8 @@
 										</div>
 									</div>
 								</div>
-							</div><div class="wpb_column vc_column_container column-6_12">
+							</div>
+							<div class="wpb_column vc_column_container column-6_12">
 								<div class="vc_column-inner ">
 									<div class="wpb_wrapper">
 										<a id="sc_anchor_events" class="sc_anchor" title="Events" data-icon="" data-url=""></a>
@@ -549,9 +546,9 @@
 										</div>
 									</div>
 								</div>
-							</div>
-					</div>
-					<div class="row row-no-padding row-o-full-height row-o-columns-middle" style="background: #fff6eb;">
+							</div> -->
+								<!-- </div> -->
+								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-middle" style="background: #fff6eb;">
 						<div class="wpb_column vc_column_container column-12_12">
 							<div class="vc_column-inner ">
 								<div class="wrap">
@@ -587,47 +584,49 @@
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="row vc_custom_1466154433105 row-o-full-height row-o-columns-stretch row-o-equal-height">
-						<div class="wpb_column vc_column_container column-4_12">
-							<div class="vc_column-inner ">
-								<div class="wpb_wrapper"></div>
-							</div>
-						</div><div class="wpb_column vc_column_container column-4_12 vc_col-has-fill">
-							<div class="vc_column-inner vc_custom_1466756857898">
-								<div class="wpb_wrapper">
-									<a id="sc_anchor_address" class="sc_anchor" title="Our Address" data-icon="" data-url=""></a>
-									<div class="vc_empty_space  height_medium" style="height: 0px"></div>
-									<div class="sc_promo sc_promo_default sc_promo_size_normal sc_promo_no_paddings sc_promo_no_image">
-										<div class="sc_promo_text sc_float_center" style="width: 100%;">
-											<div class="sc_promo_text_inner sc_align_center">
-												<div class="sc_promo_icon" data-icon="icon-winery"><span class="icon-winery"></span></div>
-												<h2 class="sc_item_title sc_promo_title">Kontakt aufnehmen</h2>
-												<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb ist das Team...</h5>
-												<div class="sc_promo_content sc_item_content">
-													<div class="wpb_text_column wpb_content_element ">
-														<div class="wpb_wrapper">
-															<p><em><strong>Adresse:</strong></em><br/> Hauptstraße 40, 3494 Brunn im Felde</p>
-															<p><em><strong>Telefon:</strong></em><br/> +43 676 3769440</p>
-															<p><em><strong>E-mail:</strong></em><br/> winzerhof.steinbatz@aon.at
-															</p>
+					</div> -->
+								<div class="row vc_custom_1466154433105 row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-4_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper"></div>
+										</div>
+									</div>
+									<div class="wpb_column vc_column_container column-4_12 vc_col-has-fill">
+										<div class="vc_column-inner vc_custom_1466756857898">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_address" class="sc_anchor" title="Our Address" data-icon="" data-url=""></a>
+												<div class="vc_empty_space  height_medium" style="height: 0px"></div>
+												<div class="sc_promo sc_promo_default sc_promo_size_normal sc_promo_no_paddings sc_promo_no_image">
+													<div class="sc_promo_text sc_float_center" style="width: 100%;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<div class="sc_promo_icon" data-icon="icon-winery"><span class="icon-winery"></span></div>
+															<h2 class="sc_item_title sc_promo_title">Kontakt aufnehmen</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb ist das Team...</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p><em><strong>Adresse:</strong></em><br /> Hauptstraße 40, 3494 Brunn im Felde</p>
+																		<p><em><strong>Telefon:</strong></em><br /> +43 676 3769440</p>
+																		<p><em><strong>E-mail:</strong></em><br /> winzerhof.steinbatz@aon.at
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<!-- <div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Join to laon wine house</span></span> </a>													</div> -->
 														</div>
 													</div>
 												</div>
-												<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Join to laon wine house</span></span> </a>													</div>
+												<div class="vc_empty_space  height_medium" style="height: 0px"></div>
 											</div>
 										</div>
 									</div>
-									<div class="vc_empty_space  height_medium" style="height: 0px"></div>
-								</div>
-							</div>
-						</div><div class="wpb_column vc_column_container column-4_12">
-							<div class="vc_column-inner ">
-								<div class="wpb_wrapper">
-									<div class="cqtooltip-wrapper " data-opacity="1" data-tooltipanimation="grow" data-tooltipstyle="shadow" data-trigger="hover" data-maxwidth="320" data-marginoffset="" data-isdisplayall="off" data-displayednum="1"><img src="http://laonwine-html.themerex.net/images/spacer.png" alt="" />
-										<div class="cq-hotspots">
-											<div class="hotspot-item pulse-white " style="top:44%;left:25%;" data-top="44%" data-left="25%">
-												<a href="#" class="cq-tooltip tooltipstered" style="background:#e39a31;" data-tooltip="
+									<div class="wpb_column vc_column_container column-4_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<div class="cqtooltip-wrapper " data-opacity="1" data-tooltipanimation="grow" data-tooltipstyle="shadow" data-trigger="hover" data-maxwidth="320" data-marginoffset="" data-isdisplayall="off" data-displayednum="1"><img src="http://laonwine-html.themerex.net/images/spacer.png" alt="" />
+													<div class="cq-hotspots">
+														<div class="hotspot-item pulse-white " style="top:44%;left:25%;" data-top="44%" data-left="25%">
+															<a href="#" class="cq-tooltip tooltipstered" style="background:#e39a31;" data-tooltip="
 													<div class=&quot;wpb_gmaps_widget wpb_content_element&quot;>
 															<div class=&quot;wpb_wrapper&quot;>
 															<div class=&quot;wpb_map_wraper&quot;>
@@ -635,23 +634,29 @@
 														</div>
 													</div>
 													" data-arrowposition=""><i class="fa icon-placeholder" style="color:#ffffff;"></i></a>
+														</div>
+													</div>
+												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<div class="row wpb_row row-fluid" id="footer_menu">
+									<div class="wpb_column vc_column_container vc_col-sm-12">
+										<div class="vc_column-inner vc_custom_1466156080949">
+											<div class="wpb_wrapper"><a id="sc_anchor_footer_menu" class="sc_anchor" title="Footer menu" data-icon="" data-url=""></a></div>
+										</div>
+									</div>
+								</div>
 							</div>
-						</div>
+						</article>
 					</div>
-					<div class="row wpb_row row-fluid" id="footer_menu"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1466156080949"><div class="wpb_wrapper"><a id="sc_anchor_footer_menu" class="sc_anchor" title="Footer menu" data-icon="" data-url=""></a></div></div></div></div>
 				</div>
-				</article>
 			</div>
+
+			<?php include 'includes/footer.php'; ?>
+
 		</div>
-	</div>
-	
-	<?php include 'includes/footer.php'; ?>
-	
-	</div>
 	</div>
 	<script type='text/javascript' src='js/vendor/jquery.js'></script>
 	<script type='text/javascript' src='js/vendor/jquery-migrate.min.js'></script>
@@ -668,7 +673,8 @@
 	<script type='text/javascript' src='js/custom/rev_slider_1_1.js'></script>
 	<script type='text/javascript' src='js/__scripts.js'></script>
 	<script type='text/javascript' src='js/custom/custom.js'></script>
-	
+
 	<a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up" title="Scroll to top"></a>
 </body>
+
 </html>

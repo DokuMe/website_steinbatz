@@ -56,29 +56,30 @@
 					<a class="menu_mobile_close icon-cancel"></a>
 					<nav class="menu_mobile_nav_area">
 						<ul id="menu_mobile" class="menu_mobile_nav">
-							<li class="menu-item menu-item-has-children"><a href="index.html"><span>Home</span></a>
+							<li class="menu-item menu-item-has-children"><a href="index.html"><span>Winzerhof</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="index.html"><span>Home 1</span></a></li>
-									<li class="menu-item"><a href="home2.html"><span>Home 2</span></a></li>
-									<li class="menu-item"><a href="home3.html"><span>Home 3</span></a></li>
+									<li class="menu-item"><a href="index.html"><span>Über uns</span></a></li>
+									<li class="menu-item"><a href="home2.html"><span>Sortenvielfalt</span></a></li>
 								</ul>
 							</li>
-							<li class="menu-item"><a href="wine-list.php"><span>Weingut</span></a></li>
+							<!-- <li class="menu-item"><a href="wine-list.php"><span>Weingut</span></a></li> -->
 							<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="family.php"><span>Familientradition</span></a></li>
-									<li class="menu-item"><a href="lagen.php"><span>Lagen</span></a></li>
-
-									<li class="menu-item menu-item-has-children"><a href="blog-style-chess-2-columns-2.html"><span>Weine</span></a>
+									<li class="menu-item"><a href="family.php"><span>Zimmer</span></a></li>
+									<!-- <li class="menu-item"><a href="lagen.php"><span>Lagen</span></a></li> -->
+									<!-- <li class="menu-item menu-item-has-children"><a href="blog-style-chess-2-columns-2.html"><span>Weine</span></a>
 										<ul class="sub-menu">
 											<li class="menu-item"><a href="blog-style-chess-2-columns-2.html"><span>Rotwein</span></a></li>
 											<li class="menu-item"><a href="blog-style-chess-4-columns.html"><span>Weißwein</span></a></li>
-										<!--	<li class="menu-item"><a href="blog-style-chess-6-columns.html"><span>6 columns</span></a></li>-->
+											<li class="menu-item"><a href="blog-style-chess-6-columns.html"><span>6 columns</span></a></li>
 										</ul>
-									</li>
-									
+									</li> -->
 								</ul>
 							</li>
+							<li class="menu-item"><a href="wine-list.php"><span>News</span></a></li>
+							<li class="menu-item"><a href="wine-list.php"><span>Kontakt</span></a></li>
+							<li class="menu-item"><a href="buy-wines.php"><span>Online Shop</span></a></li>
+
 							<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Unser Shop</span></a>
 								<ul class="sub-menu">
 									<li class="menu-item"><a href="cart.php"><span>Cart</span></a></li>

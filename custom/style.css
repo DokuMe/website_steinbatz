@@ -111,6 +111,14 @@
 .wrap.header-slider .tp-parallax-wrap .tp-loop-wrap .tp-mask-wrap {
   /* position: static !important; */
   width: 100% !important;
+  height: 100% !important;
+  top: 0;
+}
+
+.wrap.header-slider .tp-parallax-wrap .tp-loop-wrap .tp-mask-wrap h1 {
+  top: 50%;
+  width: 80%;
+  margin: 0 auto !important;
 }
 
 .wrap.header-slider .tp-parallax-wrap .tp-loop-wrap .tp-mask-wrap img {

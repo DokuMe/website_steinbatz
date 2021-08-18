@@ -173,7 +173,7 @@
 								<!--Slider END-->
 
 
-								<div class="row row-no-padding vc_custom_1469089433188 row-o-full-height row-o-columns-middle">
+								<!-- <div class="row row-no-padding vc_custom_1469089433188 row-o-full-height row-o-columns-middle">
 
 									<div class="wpb_column vc_column_container column-3_12">
 										<div class="vc_column-inner ">
@@ -227,9 +227,9 @@
 												<div class="vc_empty_space  height_huge" style="height: 0px"></div>
 												<div class="vc_empty_space  height_huge" style="height: 0px"></div>
 												<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1469087371560">
-													<!--<figure class="wpb_wrapper vc_figure">
+													<figure class="wpb_wrapper vc_figure">
 														<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="520" height="120" src="images/logo3.png" class="vc_single_image-img attachment-full" alt="laon"/ style="border-radius:5px;"></div>
-													</figure>-->
+													</figure>
 												</div>
 												<div class="vc_empty_space  height_medium" style="height: 0px"></div>
 												<div class="wpb_text_column wpb_content_element  vc_custom_1469087355036">
@@ -288,7 +288,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 
 								<div id="blackRow">&nbsp;</div>
 
@@ -624,7 +624,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="wpb_column vc_column_container column-4_12">
+									<!-- <div class="wpb_column vc_column_container column-4_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
 												<div class="cqtooltip-wrapper " data-opacity="1" data-tooltipanimation="grow" data-tooltipstyle="shadow" data-trigger="hover" data-maxwidth="320" data-marginoffset="" data-isdisplayall="off" data-displayednum="1"><img src="http://laonwine-html.themerex.net/images/spacer.png" alt="" />
@@ -643,7 +643,7 @@
 												</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 								</div>
 								<div class="row wpb_row row-fluid" id="footer_menu">
 									<div class="wpb_column vc_column_container vc_col-sm-12">

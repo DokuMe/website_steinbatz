@@ -147,7 +147,7 @@
 														<!-- <img src="js/vendor/plugins/revslider/admin/assets/images/dummy.png" alt="" width="1920" height="1080" data-lazyload="images/shop-slide-01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
 														data-bgparallax="off" class="rev-slidebg" data-no-retina /> -->
 														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-439-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;" data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;">
-															<img src="images/steinbatz/reben1.jpg" width="540" height="720" data-no-retina alt="" />
+															<img src="images/steinbatz/innen.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<!-- <div class="tp-caption shop_slider_price   tp-resizeme  shop-slide-price" id="slide-439-layer-2" data-x="43" data-y="bottom" data-voffset="210" data-width="['210']" data-height="['60']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:750;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 210px; max-width: 210px; max-width: 60px; max-width: 60px; white-space: normal;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>215.95</span>
 														</div> -->

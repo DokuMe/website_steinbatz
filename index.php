@@ -334,7 +334,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_favourite_place" class="sc_anchor" title="Favourite Place" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/weinrebe_marlene.jpeg);width:50%;left: 0;"></div>
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
@@ -362,7 +362,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_wine_essentials" class="sc_anchor" title="Wine Essentials" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(http://laonwine-html.themerex.net/images/image-22.jpg);width:50%;right: 0;"></div>
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/innen.jpg);width:50%;right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>

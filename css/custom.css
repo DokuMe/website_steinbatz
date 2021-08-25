@@ -322,3 +322,15 @@ padding: 0;
 height: 2px;
 background-color: #E39931;
 }
+
+@media (min-width: 768px) {
+  ul.products li.product {
+    min-height: 25rem;
+  }
+}
+
+@media (min-width: 959px) {
+  ul.products li.product {
+    min-height: 30rem;
+  }
+}

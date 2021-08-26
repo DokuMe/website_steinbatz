@@ -37,7 +37,7 @@
 				<a class="menu_mobile_button"></a>
 				<div class="top_panel_fixed_wrap"></div>
 				<div class="top_panel_navi scheme_dark">
-					<div class="menu_main_wrap clearfix">
+					<div class="menu_main_wrap main_menu_index clearfix">
 						<div class="wrap">
 							<!--<a class="logo" href="index.html"><img src="images/logo1.png" class="logo_main" alt="" /></a>-->
 							<a class="logo" href="index.html"><img src="images/Logo3.png" class="logo_main" alt="" style="height: 80px;border-radius: 5px;" /></a>
@@ -56,9 +56,9 @@
 					<a class="menu_mobile_close icon-cancel"></a>
 					<nav class="menu_mobile_nav_area">
 						<ul id="menu_mobile" class="menu_mobile_nav">
-							<li class="menu-item menu-item-has-children"><a href="index.html"><span>Winzerhof</span></a>
+							<li class="menu-item menu-item-has-children"><a><span>Winzerhof</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="index.html"><span>Über uns</span></a></li>
+									<li class="menu-item"><a href="#aboutUs"><span>Über uns</span></a></li>
 									<li class="menu-item"><a href="home2.html"><span>Sortenvielfalt</span></a></li>
 								</ul>
 							</li>
@@ -338,7 +338,7 @@
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
-															<h2 class="sc_item_title sc_promo_title">Über uns</h2>
+															<h2 class="sc_item_title sc_promo_title" id="aboutUs">Über uns</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich.</h5>
 															<div class="sc_item_descr sc_promo_descr">Wir sind ein traditioneller Familienbetrieb, der bereits in der 8. Generation von Franz Steinbatz und seiner Frau Renate geführt wird. Auf einer Rebfläche von rund 10 ha kultivieren wir unsere Weine. Die Hauptsorten sind Grüner Veltliner und Riesling im Weißweinbereich, bei den Rotweinen dominiert der Zweigelt. Unsere Reben gedeihen größtenteils auf Lössböden und sind vom pannonischen Klima geprägt. Die Weingärten werden von der ganzen Familie gepflegt und die Weine mit modernster Kellertechnik weiterverarbeitet.</div>
 															<!-- <div class="sc_promo_content sc_item_content">

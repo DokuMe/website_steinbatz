@@ -7,7 +7,7 @@
       <nav class="menu_main_nav_area menu_hover_fade">
         <ul id="menu_main" class="menu_main_nav">
           <li class="menu-item"><a href="index.php"><span>Home</span></a></li>
-          <li class="menu-item"><a href="index.php"><span>Über uns</span></a></li>
+          <li class="menu-item"><a href="index.php#aboutUs"><span>Über uns</span></a></li>
           <li class="current-menu-item wer menu-item"><a href="wine-list.php"><span>Weingut</span></a></li>
           <li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
             <ul class="sub-menu">

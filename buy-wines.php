@@ -260,7 +260,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/blauerzweigelt2018.png" alt="Blauer Zweigelt 2018" title="Blauer Zweigelt 2018" /> </a>
+																		<img width="360" height="480" src="images/gruenerveltliner.png" alt="Grüner Veltliner" title="Grüner Veltliner" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="406" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -270,8 +270,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2014</a></div>
-																		<h3><a href="product.html">Grüner Veltliner Kabinett 2020</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Grüner Veltliner Kabinett</a></h3>
 																		<div class="star-rating" title="Rated 5 out of 5"><span style="width:100%"><strong class="rating">5</strong> out of 5</span></div>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>35<span class="decimals">00</span></span>
@@ -279,12 +279,12 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="406" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
 															</div>
 														</li>
-														
+
 														<li class="product has-post-thumbnail">
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/blauerzweigeltbarique.png" alt="Blauer Zweigelt Barique" title="Blauer Zweigelt Barique" /> </a>
+																		<img width="360" height="480" src="images/Galawein_1.png" alt="Galawein_1" title="Galawein_1" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="405" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -294,8 +294,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2018</a></div>
-																		<h3><a href="product.html">Rheinriesling Kabinett 2020</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Rheinriesling Kabinett</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>45<span class="decimals">95</span></span>
 																	</span>
@@ -316,8 +316,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2012</a></div>
-																		<h3><a href="product.html">Rosé Qualitätswein 2020</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Rosé Qualitätswein</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
 																	</span>
@@ -338,8 +338,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2011</a></div>
-																		<h3><a href="product.html">Muskateller Kabinett 2020</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Muskateller Kabinett</a></h3>
 																		<div class="star-rating" title="Rated 5 out of 5"><span style="width:100%"><strong class="rating">5</strong> out of 5</span></div>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>300<span class="decimals">50</span></span>
@@ -361,8 +361,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2012</a></div>
-																		<h3><a href="product.html">Sauvignon Blanc Qualitätswein 2020</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Sauvignon Blanc Qualitätswein</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>95<span class="decimals">00</span></span>
 																	</span>
@@ -383,8 +383,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2013</a></div>
-																		<h3><a href="product.html">Pinot Blanc Kabinett 2020 </a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Pinot Blanc Kabinett</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>215<span class="decimals">00</span></span>
 																	</span>
@@ -396,7 +396,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<span class="onsale">Sale!</span>
+																		<!-- <span class="onsale">Sale!</span> -->
 																		<img width="360" height="480" src="images/welschriesling1.png" alt="Welschriesling" title="Welschriesling" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
@@ -406,8 +406,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2014</a></div>
-																		<h3><a href="product.html">Welschriesling Qualitätswein 2020</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Welschriesling Qualitätswein</a></h3>
 																	</div>
 																	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>490<span class="decimals">00</span></span>
 																	</del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>379<span class="decimals">99</span></span></ins></span>
@@ -428,7 +428,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2013</a></div>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag"></a></div>
 																		<h3><a href="product.html">Blauer Zweigelt Classic</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
@@ -441,7 +441,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/zweigeltreserve.png" alt="Zweigelt Reserve" title="Zweigelt Reserve"/> </a>
+																		<img width="360" height="480" src="images/stLaurent.png" alt="St. Laurent" title="St. Laurent"/> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="index28e9.html?add-to-cart=387" aria-hidden="true" data-quantity="1" data-product_id="387" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -450,7 +450,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2013</a></div>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag"></a></div>
 																		<h3><a href="product.html">Sankt Laurent</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
@@ -463,7 +463,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/zweigeltreserve.png" alt="Zweigelt Reserve" title="Zweigelt Reserve"/> </a>
+																		<img width="360" height="480" src="images/blauerzweigelt2018.png" alt="Blauer Zweigelt 2018" title="Blauer Zweigelt 2018"/> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="index28e9.html?add-to-cart=387" aria-hidden="true" data-quantity="1" data-product_id="387" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -472,7 +472,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2013</a></div>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag"></a></div>
 																		<h3><a href="product.html">Blauer Zweigelt</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
@@ -487,7 +487,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 										</div>
 									</div>
 								</div>
-								<div class="row">
+								<!-- <div class="row">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wrap">
@@ -516,8 +516,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 											</div>
 										</div>
 									</div>
-								</div>
-								<div class="row">
+								</div> -->
+								<!-- <div class="row">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wrap">
@@ -558,7 +558,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 								<div class="row vc_custom_1465549560104">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
@@ -567,7 +567,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 												<div class="vc_empty_space  height_huge hide_on_mobile" style="height: 0px"></div>
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 style="text-align: center;"><span style="color: #ffffff;">Wine House is Committed to Producing Estate Grown Wines of the Highest Caliber and Distinction.</span></h3>
+														<h3 style="text-align: center;"><span style="color: #ffffff;">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN</span></h3>
 													</div>
 												</div>
 												<div class="vc_empty_space  height_huge hide_on_mobile" style="height: 0px"></div>

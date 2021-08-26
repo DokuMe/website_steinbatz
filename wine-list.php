@@ -109,11 +109,11 @@
 
 								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
 									<div class="wpb_column vc_column_container column-12_12">
-										<div class="vc_column-inner ">
+										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/Wein_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Grüner Veltliner Kabinett</h2>
@@ -171,7 +171,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/Wein_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Rosé Qualitätswein</h2>
@@ -229,7 +229,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/Wein_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Sauvignon Blanc Qualitätswein</h2>
@@ -258,7 +258,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/Wein_1.png);left: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Pinot Blanc Kabinett</h2>

@@ -374,7 +374,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/stLaurent.png" alt="St. Laurent" title="St. Laurent" /> </a>
+																		<img width="360" height="480" src="images/StLaurent.png" alt="St. Laurent" title="St. Laurent" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="401" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>

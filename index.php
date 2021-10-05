@@ -339,8 +339,7 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
 															<h2 class="sc_item_title sc_promo_title" id="aboutUs">Über uns</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich.</h5>
-															<div class="sc_item_descr sc_promo_descr">Wir sind ein traditioneller Familienbetrieb, der bereits in der 8. Generation von Franz Steinbatz und seiner Frau Renate geführt wird. Auf einer Rebfläche von rund 10 ha kultivieren wir unsere Weine. Die Hauptsorten sind Grüner Veltliner und Riesling im Weißweinbereich, bei den Rotweinen dominiert der Zweigelt. Unsere Reben gedeihen größtenteils auf Lössböden und sind vom pannonischen Klima geprägt. Die Weingärten werden von der ganzen Familie gepflegt und die Weine mit modernster Kellertechnik weiterverarbeitet.</div>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">3 Generationen - eine Leidenschaft - ein Ziel</h5>
 															<!-- <div class="sc_promo_content sc_item_content">
 																<div class="wpb_single_image wpb_content_element vc_align_center">
 																	<figure class="wpb_wrapper vc_figure">
@@ -349,6 +348,7 @@
 																</div>
 															</div> -->
 															<!-- <div class="sc_item_button sc_promo_button sc_button_wrap"><a href="contacts.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Plantage</span></span> </a>																</div> -->
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="family.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
 														</div>
 													</div>
 												</div>
@@ -367,19 +367,48 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
 															<h2 class="sc_item_title sc_promo_title">Gästehaus</h2>
-															<!-- <h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb das Team....</h5> -->
-															<div class="sc_item_descr sc_promo_descr">
-																<p>
-																	Direkt in unserem Winzerhof, einem bestehenden Vierkanthof mit langer Tradition befindet sich auch unser gemütliches Gästehaus. Seit 2011 finden Sie bei uns 5 modern ausgestattete und geräumige Zimmer für bis zu 10 Personen. Diese wurden durch den Verein „Urlaub am Winzerhof“ mit der höchsten Bewertung ausgezeichnet. Nutzen Sie unsere kostenlosen Leihfahrräder zum Erkunden des Kremstals, lassen Sie die Seele an unserem nahegelegenen Schwimmteich baumeln oder entspannen Sie bei einem Gläschen Wein in unserem Verkostungsraum.
-																</p>
-																<p>
-																	Nach einer erholsamen Nacht erwartet Sie ein ausgezeichnetes Frühstücksbuffet mit regionalen und saisonalen Köstlichkeiten.
-																</p>
-																<p>
-																	Statten Sie uns doch nach telefonischer Vereinbarung einen Besuch auf unserem Winzerhof ab, verkosten Sie unsere hervorragenden Weine und verbringen Sie eine schöne Zeit bei uns. Wir freuen uns auf Sie!
-																</p>
-															</div>
-															<!-- <div class="sc_item_button sc_promo_button sc_button_wrap"><a href="about-us.html" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Unsere Philosophie</span></span> </a></div> -->
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Urlauben, wo der Wein wächst und gekeltert wird.</h5>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="lagen.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_favourite_place" class="sc_anchor" title="Favourite Place" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large">
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
+															<h2 class="sc_item_title sc_promo_title" id="aboutUs">Unsere Weine</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Werfen Sie einen Blick in unseren Online Shop und gewinnen Sie einen Eindruck von unserem Sortiment.</h5>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="wine-list.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
+										<div class="vc_column-inner vc_custom_1465806595697">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_wine_essentials" class="sc_anchor" title="Wine Essentials" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large">
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/innen.jpg);width:50%;right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
+															<h2 class="sc_item_title sc_promo_title">Neugierig?</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Rufe uns einfach an oder schicke uns eine E-Mail, wir freuen uns auf deine Nachricht!</h5>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="contacts.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
 														</div>
 													</div>
 												</div>

@@ -40,7 +40,7 @@
 					<div class="menu_main_wrap main_menu_index clearfix">
 						<div class="wrap">
 							<!--<a class="logo" href="index.html"><img src="images/logo1.png" class="logo_main" alt="" /></a>-->
-							<a class="logo" href="index.html"><img src="images/Logo3.png" class="logo_main" alt="" style="height: 80px;border-radius: 5px;" /></a>
+							<a class="logo" href="index.html"><img src="images/steinbatz_logo.png" class="logo_main" alt="" style="height: 80px;border-radius: 5px;" /></a>
 						</div>
 					</div>
 				</div>

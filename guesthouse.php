@@ -13,9 +13,9 @@
 					<div class="content_wrap">
 						<div class="top_panel_title">
 							<div class="page_title">
-								<h1 class="page_caption">Unsere Weine</h1>
+								<h1 class="page_caption">Gästehaus</h1>
 							</div>
-							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Unsere Weine</span></div>
+							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Gästehaus</span></div>
 						</div>
 					</div>
 				</div>
@@ -115,8 +115,8 @@
 									<div class="sc_promo sc_promo_default sc_promo_size_normal sc_promo_no_paddings sc_promo_no_image">
 										<div class="sc_promo_text" style="width: 100%;">
 											<div class="sc_promo_text_inner sc_align_center">
-												<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
-												<h2 class="sc_item_title sc_promo_title">Gästehaus</h2>
+												<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
+												<!-- <h2 class="sc_item_title sc_promo_title">Gästehaus</h2> -->
 												<h5 class="sc_item_subtitle sc_promo_subtitle">Wohlfühlen</h5>
 												<div class="sc_promo_content sc_item_content">
 													<div class="wpb_text_column wpb_content_element ">

@@ -13,9 +13,9 @@
 					<div class="content_wrap">
 						<div class="top_panel_title">
 							<div class="page_title">
-								<h1 class="page_caption">Mein Konto</h1>
+								<h1 class="page_caption">Checkout</h1>
 							</div>
-							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Unser Shop</span></div>
+							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Checkout</span></div>
 						</div>
 					</div>
 				</div>

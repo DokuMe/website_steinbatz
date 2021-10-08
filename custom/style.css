@@ -95,9 +95,51 @@
   height: 80px;
 }
 
+/*Headers Logo*/
+
 .logo img {
-  height: 80px;
+  height: 50px;
 }
+
+@media (min-width: 959px) {
+  .logo img {
+    height: 80px;
+  }
+}
+
+.mobile_layout .top_panel.without_bg_image .logo img {
+  height: 20px;
+}
+
+@media (min-width: 480px) {
+  .mobile_layout .top_panel.without_bg_image .logo img {
+    height: 50px;
+  }
+  .mobile_layout .top_panel.without_bg_image .logo {
+      float: none;
+  }
+}
+
+@media (min-width: 480px) {
+  .top_panel.without_bg_image .top_panel_title_wrap {
+    top: 9rem;
+  }
+}
+
+body:not(.single) .top_panel {
+  margin-bottom: 4rem;
+}
+
+@media (min-width: 959px) {
+  .top_panel.without_bg_image .top_panel_title_wrap {
+    top: 0;
+  }
+  body:not(.single) .top_panel {
+    margin-bottom: 0;
+  }
+}
+
+/*Headers Logo End*/
 
 header .menu_main_wrap.main_menu_index {
   padding: .2rem;

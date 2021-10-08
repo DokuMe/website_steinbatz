@@ -11,7 +11,7 @@
 				<div class="top_panel_navi scheme_dark">
 					<div class="menu_main_wrap main_menu_index clearfix">
 						<div class="wrap">
-							<a class="logo" href="index.html"><img src="images/steinbatz_logo.png" class="logo_main" alt="" style="height: 80px;" /></a>
+							<a class="logo" href="index.html"><img src="images/steinbatz_logo.png" class="logo_main" alt="" /></a>
 						</div>
 					</div>
 				</div>

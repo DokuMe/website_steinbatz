@@ -1,42 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
 
-<head>
-	<title>Unser Shop &#8211; Winzerhof Steinbatz</title>
-	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel='stylesheet' id='vc_extensions_cqbundle_adminicon-css' href='js/vendor/plugins/vc-extensions-bundle/css/admin_icon.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='rs-plugin-settings-css' href='js/vendor/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='trx_addons-icons-css' href='js/vendor/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='swiperslider-css' href='js/vendor/plugins/trx_addons/js/swiper/swiper.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='magnific-popup-css' href='js/vendor/plugins/trx_addons/js/magnific/magnific-popup.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='trx_addons-css' href='js/vendor/plugins/trx_addons/css/trx_addons.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='woocommerce-layout-css' href='js/vendor/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='woocommerce-smallscreen-css' href='js/vendor/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
-	<link rel='stylesheet' id='woocommerce-general-css' href='js/vendor/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-font-google_fonts-css' href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic%7CLato:400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-fontello-css' href='css/fontello/css/fontello-embedded.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-main-css' href='css/style.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-animation-css' href='css/animation.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-colors-css' href='css/__colors.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-styles-css' href='css/__styles.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-custom-css' href='css/custom.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='laon_wine_house-responsive-css' href='css/responsive.min.css' type='text/css' media='all' />
-
-	<style>
-
-	.logo_footer_wrap_inner img {
-		height: 80px;
-	}
-
-	.logo img {
-		height: 80px;
-	}
-	</style>
-
-
-</head>
+<?php include 'includes/head.php'; ?>
 <body class="page page-id-396 page-template-default body_tag body_style_wide scheme_default blog_mode_page is_single sidebar_hide expand_content remove_margins header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
 	<div class="body_wrap">
 		<div class="page_wrap">
@@ -54,6 +19,49 @@
 					</div>
 				</div>
 			</header>
+
+			<div class="menu_mobile_overlay"></div>
+			<div class="menu_mobile scheme_dark">
+				<div class="menu_mobile_inner">
+					<a class="menu_mobile_close icon-cancel"></a>
+					<nav class="menu_mobile_nav_area">
+						<ul id="menu_mobile" class="menu_mobile_nav">
+							<li class="menu-item"><a href="index.php"><span>Home</span></a>
+							</li>
+							<li class="menu-item"><a href="wine-list.php"><span>Weingut</span></a></li>
+							<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
+								<ul class="sub-menu">
+								<li class="menu-item"><a href="family.php"><span>Familie</span></a></li>
+								<li class="menu-item"><a href="lagen.php"><span>Lagen</span></a></li>
+								</ul>
+							</li>
+							<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a>
+							</li>
+							<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Shop</span></a>
+								<ul class="sub-menu">
+								<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
+								<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
+								<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+					<div class="search_mobile">
+						<div class="search_form_wrap">
+							<form role="search" method="get" class="search_form" action="#">
+								<input type="text" class="search_field" placeholder="Search ..." value="" name="s">
+								<button type="submit" class="search_submit icon-search" title="Start search"></button>
+							</form>
+						</div>
+					</div>
+					<div class="socials_mobile"><span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
+						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
+						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
+						</span>
+					</div>
+				</div>
+			</div>
+
 			<div class="page_content_wrap scheme_default">
 				<div class="content_wrap">
 					<div class="content">

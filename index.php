@@ -38,7 +38,7 @@
 									<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
 								</ul>
 							</li>
-							<li class="menu-item"><a href="events.html"><span>News</span></a></li>
+							<li class="menu-item"><a href="events.php"><span>News</span></a></li>
 							<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
 							<li class="menu-item"><a href="buy-wines.php"><span>Online Shop</span></a>
 								<ul class="sub-menu">

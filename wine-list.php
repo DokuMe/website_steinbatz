@@ -75,7 +75,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/gruener_veltiner.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/gruener_veltliner.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Grüner Veltliner Kabinett</h2>
@@ -133,12 +133,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rose_blauer_zweigelt_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rose_blauer_zweigelt.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title">
 																<!-- <small>2020</small> -->
-																<br>Rosé Blauer Zweigelt 2
+																<br>Rosé Blauer Zweigelt Qualitätswein
 															</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Rosa, Bukett nach Kirsche und Erdbeere, das sich am Gaumen angenehm fortsetzt</h5>
 															<div class="sc_promo_content sc_item_content">
@@ -165,10 +165,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_4.png);left: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rose_blauer_zweigelt_2.png);left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Muskateller Kabinett</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<!-- <small>2020</small> -->
+																<br>Rosé Blauer Zweigelt</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Strohgelb mit leicht grünen Reflexen, typischer Duft nach Muskat, saftige Frucht am Gaumen, harmonisches Säurespiel mit elegantem Finish</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
@@ -194,10 +196,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/sauvignon_blanc_1019.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Sauvignon Blanc Qualitätswein</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<small>2020</small>
+																<br>Sauvignon Blanc Qualitätswein</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Helles Grüngelb, in der Nase typische grasige Sauvignonwürze, am Gaumen Paprika mit zart grasigen Elementen</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
@@ -223,10 +227,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);left: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/pinot_blanc_kabinet.png);left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Pinot Blanc Kabinett</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<small>2020</small>
+																<br>Pinot Blanc Kabinett</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Leuchtendes Grüngelb, in der Nase feine Nussaromatik, sehr harmonisch und trinkfreudig, erfrischender Abgang</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
@@ -252,10 +258,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WELSCHRIESLING.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/welschriesling.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Welschriesling Qualitätswein</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<small>2020</small>
+																<br>Welschriesling Qualitätswein</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Helles Strohgelb mit Grünreflexen, lebendiger Geschmack nach saftigen Äpfeln, frischer, animierender Abgang</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
@@ -281,10 +289,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/ZWEIGELT_2014.png);left: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/blauer_zweigelt_1l.png);left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small></small><br>Blauer Zweigelt Classic</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Blauer Zweigelt Classic</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
@@ -310,10 +320,12 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/ST.LAURENT.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/blauer_zweigelt_1818.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small></small><br>Sankt Laurent</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<small>1818</small>
+																<br>Blauer Zweigelt Jubiläumswein</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
@@ -339,10 +351,321 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_1.png);left: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/blauer_zweigelt_barique.png);left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small></small><br>Blauer Zweigelt</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Blauer Zweigelt Barique Trocken</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/blauer_zweigelt_trocken_075_rot_huelle.png);right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Blauer Zweigelt Trocken</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/st_laurent.png);left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Sankt Laurent</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/marille_frizzante.png);right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Marille Frizzante</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/riesling_frizzante.png);left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Riesling Frizzante</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rose_frizzante.png);right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Rosé Frizzante</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/muskateller.png);left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small>2020</small>
+																<br>Muskateller Kabinett</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rot_traubensaft.png);right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Traubensaft Rot</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/weiss_traubensaft.png);left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small></small>
+																<br>Traubensaft Weiss</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1980 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R990 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/sport_gala_rhr_2017.png);right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small>2017</small>
+																<br>Sport-Gala Rheinriesling</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<div class="sc_promo_content sc_item_content">
+																<div class="wpb_text_column wpb_content_element ">
+																	<div class="wpb_wrapper">
+																		<p style="text-align: center;"><span class="trx_addons_accent trx_addons_tiny_text"><strong>R1200 / 12 BOTTLES</strong></span><br />
+																			<span class="trx_addons_accent trx_addons_tiny_text"><strong>R600 / 6 BOTTLES</strong></span>
+																		</p>
+																	</div>
+																</div>
+															</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12">
+										<div class="vc_column-inner ">
+											<div class="wpb_wrapper">
+												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/zweigelt_2014.png);left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+														<div class="sc_promo_text_inner sc_align_center">
+															<h2 class="sc_item_title sc_promo_title">
+																<small>2014</small>
+																<br>Zweigelt</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">

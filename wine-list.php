@@ -75,7 +75,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/gruener_veltiner.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Grüner Veltliner Kabinett</h2>
@@ -104,7 +104,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_cabernet_sauvignon_2012" class="sc_anchor" title="Cabernet Sauvignon 2012" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/SPORT_GALA_RHR_2017.png);left: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rheinriesling_kabinett_2020.png);left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Rheinriesling Kabinett</h2>
@@ -133,10 +133,13 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
-													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/WEIN_2.png);right: 0;"></div>
+													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/rose_blauer_zweigelt_2.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<h2 class="sc_item_title sc_promo_title"><small>2020</small><br>Rosé Qualitätswein</h2>
+															<h2 class="sc_item_title sc_promo_title">
+																<!-- <small>2020</small> -->
+																<br>Rosé Blauer Zweigelt 2
+															</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Rosa, Bukett nach Kirsche und Erdbeere, das sich am Gaumen angenehm fortsetzt</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">

@@ -67,7 +67,7 @@
 				<div class="content_wrap">
 					<div class="post_content entry-content">
 						<div class="wpb_wrapper">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.3523826708315!2d15.69510101572546!3d48.43057627924797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47728321bffb0191%3A0x7632360e7d647fc1!2sHauptstra%C3%9Fe%2040%2C%203494!5e0!3m2!1sde!2sat!4v1618178651383!5m2!1sde!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.3523826708315!2d15.69510101572546!3d48.43057627924797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47728321bffb0191%3A0x7632360e7d647fc1!2sHauptstra%C3%9Fe%2040%2C%203494!5e0!3m2!1sde!2sat!4v1618178651383!5m2!1sde!2sat" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							<div id="sc_googlemap_1883708744_wrap" class="sc_googlemap_wrap">
 								<div id="sc_googlemap_1883708744" class="sc_googlemap sc_googlemap_detailed" style="width:100%;height:660px;" data-zoom="12" data-style="default">
 									<div id="sc_googlemap_1883708744_1" class="sc_googlemap_marker" data-latlng="41.031786,-73.629356" data-address="" data-description="" data-title="Our Plantation" data-icon="images/googlemap_marker.png"></div>

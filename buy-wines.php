@@ -73,7 +73,7 @@
 											<div class="wpb_wrapper"></div>
 										</div>
 									</div>
-									<div class="wpb_column vc_column_container vc_col-sm-10">
+									<!-- <div class="wpb_column vc_column_container vc_col-sm-10">
 										<div class="vc_column-inner ">
 											<div class="wrap">
 												<div class="vc_empty_space  height_tiny" style="height: 0px"></div>
@@ -163,7 +163,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 												</div>
 											</div>
 										</div>
-									</div>
+									</div> -->
 									<div class="wpb_column vc_column_container vc_col-sm-1">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper"></div>
@@ -189,7 +189,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/gruenerveltliner.png" alt="Grüner Veltliner" title="Grüner Veltliner" /> </a>
+																		<img width="360" height="480" src="images/wines/gruener_veltliner.png" alt="Grüner Veltliner" title="Grüner Veltliner" /> 
+																	</a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="406" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -201,7 +202,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																	<div class="post_header entry-header">
 																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
 																		<h3><a href="product.html">Grüner Veltliner Kabinett</a></h3>
-																		<div class="star-rating" title="Rated 5 out of 5"><span style="width:100%"><strong class="rating">5</strong> out of 5</span></div>
+																		<!-- <div class="star-rating" title="Rated 5 out of 5"><span style="width:100%"><strong class="rating">5</strong> out of 5</span></div> -->
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>35<span class="decimals">00</span></span>
 																	</span>
@@ -213,7 +214,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/Galawein_1.png" alt="Galawein_1" title="Galawein_1" /> </a>
+																		<img width="360" height="480" src="images/wines/rheinriesling_kabinett_2020.png" alt="Rheinriesling Kabinett 2020" title="Galawein_1" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="405" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -236,7 +237,51 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/gruenerveltliner.png" alt="Grüner Veltliner" title="Grüner Veltliner"/> </a>
+																		<img width="360" height="480" src="images/wines/zweigelt_2014.png" alt="Zweigelt" title="Zweigelt"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="index28e9.html?add-to-cart=387" aria-hidden="true" data-quantity="1" data-product_id="387" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2014</a></div>
+																		<h3><a href="product.html">Zweigelt</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="index28e9.html?add-to-cart=387" data-quantity="1" data-product_id="387" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/blauer_zweigelt_1l.png" alt="Blauer Zweigelt Classic" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div> -->
+																		<h3><a href="product.html">Blauer Zweigelt Classic</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/rose_blauer_zweigelt.png" alt="Rosé Blauer Zweigelt Qualitätswein" title="Grüner Veltliner"/> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -246,7 +291,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																<div class="post_data">
 																	<div class="post_header entry-header">
 																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
-																		<h3><a href="product.html">Rosé Qualitätswein</a></h3>
+																		<h3><a href="product.html">Rosé Blauer Zweigelt Qualitätswein</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
 																	</span>
@@ -254,11 +299,253 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															</div>
 														</li>
 
-														<li class="product has-post-thumbnail last">
+														<li class="product has-post-thumbnail">
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/frizzante.png" alt="Frizzante Marille" title="Frizzante Marille" /> </a>
+																		<img width="360" height="480" src="images/wines/rose_blauer_zweigelt_2.png" alt="Rosé Blauer Zweigelt" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Rosé Blauer Zweigelt</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/sauvignon_blanc_1019.png" alt="Sauvignon Blanc Qualitätswein" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Sauvignon Blanc Qualitätswein</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/pinot_blanc_kabinet.png" alt="Pinot Blanc Kabinett" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Pinot Blanc Kabinett</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/welschriesling.png" alt="Welschriesling Qualitätswein" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
+																		<h3><a href="product.html">Welschriesling Qualitätswein</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/blauer_zweigelt_1818.png" alt="Blauer Zweigelt Jubiläumswein" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div>
+																		<h3><a href="product.html">Blauer Zweigelt Jubiläumswein</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/blauer_zweigelt_barique.png" alt="Blauer Zweigelt Barique Trocken" title="Grüner Veltliner"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div> -->
+																		<h3><a href="product.html">Blauer Zweigelt Barique Trocken</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/blauer_zweigelt_trocken_075_rot_huelle.png" alt="Blauer Zweigelt Trocken" title="Blauer Zweigelt Trocken"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div> -->
+																		<h3><a href="product.html">Blauer Zweigelt Trocken</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/st_laurent.png" alt="Sankt Laurent" title="Sankt Laurent"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div> -->
+																		<h3><a href="product.html">Sankt Laurent</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/marille_frizzante.png" alt="Marille Frizzante" title="Marille Frizzante"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div> -->
+																		<h3><a href="product.html">Marille Frizzante</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/riesling_frizzante.png" alt="Riesling Frizzante" title="Riesling Frizzante"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div> -->
+																		<h3><a href="product.html">Riesling Frizzante</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/rose_frizzante.png" alt="Rosé Frizzante" title="Rosé Frizzante"/> </a>
+																	<div class="mask"></div>
+																	<div class="icons">
+																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
+																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
+																	</div>
+																</div>
+																<div class="post_data">
+																	<div class="post_header entry-header">
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">1818</a></div> -->
+																		<h3><a href="product.html">Rosé Frizzante</a></h3>
+																	</div>
+																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
+																	</span>
+																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="404" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
+															</div>
+														</li>
+
+														<li class="product has-post-thumbnail">
+															<div class="post_item post_layout_thumbs">
+																<div class="post_featured hover_shop">
+																	<a href="product.html">
+																		<img width="360" height="480" src="images/wines/muskateller.png" alt="Muskateller Kabinett" title="Muskateller Kabinett" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="403" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -269,7 +556,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																	<div class="post_header entry-header">
 																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
 																		<h3><a href="product.html">Muskateller Kabinett</a></h3>
-																		<div class="star-rating" title="Rated 5 out of 5"><span style="width:100%"><strong class="rating">5</strong> out of 5</span></div>
+																		<!-- <div class="star-rating" title="Rated 5 out of 5"><span style="width:100%"><strong class="rating">5</strong> out of 5</span></div> -->
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>300<span class="decimals">50</span></span>
 																	</span>
@@ -277,11 +564,11 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															</div>
 														</li>
 
-														<li class="product has-post-thumbnail first">
+														<li class="product has-post-thumbnail">
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/Galawein_1.png" alt="Galawein_1" title="Galawein_1"/> </a>
+																		<img width="360" height="480" src="images/wines/rot_traubensaft.png" alt="Traubensaft Rot" title="Traubensaft Rot"/> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="402" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -290,8 +577,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
-																		<h3><a href="product.html">Sauvignon Blanc Qualitätswein</a></h3>
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div> -->
+																		<h3><a href="product.html">Traubensaft Rot</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>95<span class="decimals">00</span></span>
 																	</span>
@@ -303,7 +590,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
-																		<img width="360" height="480" src="images/StLaurent.png" alt="St. Laurent" title="St. Laurent" /> </a>
+																		<img width="360" height="480" src="images/wines/weiss_traubensaft.png" alt="Traubensaft Weiss" title="Traubensaft Weiss" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="401" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -312,8 +599,8 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
-																		<h3><a href="product.html">Pinot Blanc Kabinett</a></h3>
+																		<!-- <div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div> -->
+																		<h3><a href="product.html">Traubensaft Weiss</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>215<span class="decimals">00</span></span>
 																	</span>
@@ -321,12 +608,12 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															</div>
 														</li>
 
-														<li class="product has-post-thumbnail sale">
+														<li class="product has-post-thumbnail last">
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.html">
 																		<!-- <span class="onsale">Sale!</span> -->
-																		<img width="360" height="480" src="images/welschriesling1.png" alt="Welschriesling" title="Welschriesling" /> </a>
+																		<img width="360" height="480" src="images/wines/sport_gala_rhr_2017.png" alt="Sport-Gala Rheinriesling" title="Sport-Gala Rheinriesling" /> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="395" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -335,78 +622,12 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																</div>
 																<div class="post_data">
 																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2020</a></div>
-																		<h3><a href="product.html">Welschriesling Qualitätswein</a></h3>
+																		<div class="post_tags product_tags"><a href="product.html" rel="tag">2017</a></div>
+																		<h3><a href="product.html">Sport-Gala Rheinriesling</a></h3>
 																	</div>
 																	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>490<span class="decimals">00</span></span>
 																	</del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>379<span class="decimals">99</span></span></ins></span>
 																	<a rel="nofollow" href="#" data-quantity="1" data-product_id="395" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
-															</div>
-														</li>
-
-														<li class="product has-post-thumbnail last">
-															<div class="post_item post_layout_thumbs">
-																<div class="post_featured hover_shop">
-																	<a href="product.html">
-																		<img width="360" height="480" src="images/zweigeltreserve.png" alt="Zweigelt Reserve" title="Zweigelt Reserve"/> </a>
-																	<div class="mask"></div>
-																	<div class="icons">
-																		<a rel="nofollow" href="index28e9.html?add-to-cart=387" aria-hidden="true" data-quantity="1" data-product_id="387" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
-																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
-																	</div>
-																</div>
-																<div class="post_data">
-																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag"></a></div>
-																		<h3><a href="product.html">Blauer Zweigelt Classic</a></h3>
-																	</div>
-																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
-																	</span>
-																	<a rel="nofollow" href="index28e9.html?add-to-cart=387" data-quantity="1" data-product_id="387" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
-															</div>
-														</li>
-
-														<li class="product has-post-thumbnail last">
-															<div class="post_item post_layout_thumbs">
-																<div class="post_featured hover_shop">
-																	<a href="product.html">
-																		<img width="360" height="480" src="images/StLaurent.png" alt="St. Laurent" title="St. Laurent"/> </a>
-																	<div class="mask"></div>
-																	<div class="icons">
-																		<a rel="nofollow" href="index28e9.html?add-to-cart=387" aria-hidden="true" data-quantity="1" data-product_id="387" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
-																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
-																	</div>
-																</div>
-																<div class="post_data">
-																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag"></a></div>
-																		<h3><a href="product.html">Sankt Laurent</a></h3>
-																	</div>
-																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
-																	</span>
-																	<a rel="nofollow" href="index28e9.html?add-to-cart=387" data-quantity="1" data-product_id="387" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
-															</div>
-														</li>
-
-														<li class="product has-post-thumbnail last">
-															<div class="post_item post_layout_thumbs">
-																<div class="post_featured hover_shop">
-																	<a href="product.html">
-																		<img width="360" height="480" src="images/blauerzweigelt2018.png" alt="Blauer Zweigelt 2018" title="Blauer Zweigelt 2018"/> </a>
-																	<div class="mask"></div>
-																	<div class="icons">
-																		<a rel="nofollow" href="index28e9.html?add-to-cart=387" aria-hidden="true" data-quantity="1" data-product_id="387" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
-																		<a href="product.html" aria-hidden="true" class="shop_link icon-link"></a>
-																	</div>
-																</div>
-																<div class="post_data">
-																	<div class="post_header entry-header">
-																		<div class="post_tags product_tags"><a href="product.html" rel="tag"></a></div>
-																		<h3><a href="product.html">Blauer Zweigelt</a></h3>
-																	</div>
-																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>645<span class="decimals">00</span></span>
-																	</span>
-																	<a rel="nofollow" href="index28e9.html?add-to-cart=387" data-quantity="1" data-product_id="387" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Buy now</a> </div>
 															</div>
 														</li>
 													</ul>

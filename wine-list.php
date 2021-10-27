@@ -137,7 +137,7 @@
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title">
-																<!-- <small>2020</small> -->
+																<small>2020</small>
 																<br>Rosé Blauer Zweigelt Qualitätswein
 															</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Rosa, Bukett nach Kirsche und Erdbeere, das sich am Gaumen angenehm fortsetzt</h5>
@@ -627,7 +627,7 @@
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
-												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Shardonnay 2014" data-icon="" data-url=""></a>
+												<a id="sc_anchor_shardonnay_2014" class="sc_anchor" title="Sport-Gala Rheinriesling" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_image_fit">
 													<div class="sc_promo_image" style="background-color:#f7f7f5;background-image:url(images/wines/sport_gala_rhr_2017.png);right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">

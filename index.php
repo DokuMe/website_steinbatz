@@ -15,6 +15,36 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="menu_desktop menu_header_wrap clearfix">
+					<div class="content_wrap">
+						<nav class="menu_main_nav_area menu_hover_fade menu_show">
+							<ul id="menu_main" class="menu_main_nav">
+								<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
+										<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
+									</ul>
+								</li>
+								<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
+									</ul>
+								</li>
+								<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
+								<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
+								<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Online Shop</span></a>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
+										<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
+										<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
+									</ul>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+
 			</header>
 			<div class="menu_side_wrap scheme_dark">
 				<div class="menu_side_inner">

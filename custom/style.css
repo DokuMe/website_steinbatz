@@ -124,7 +124,7 @@
     height: 50px;
   }
   .mobile_layout .top_panel.without_bg_image .logo {
-      float: none;
+      /* float: none; */
   }
 }
 

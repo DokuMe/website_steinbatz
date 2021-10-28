@@ -41,6 +41,7 @@
 								<li class="menu-item"><a href="lagen.php"><span>Lagen</span></a></li>
 								</ul>
 							</li>
+							<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a>
 							<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a>
 							</li>
 							<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Shop</span></a>

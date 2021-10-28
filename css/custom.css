@@ -293,7 +293,7 @@ body.menu_style_side {
     display: none;
   }
   .vc_custom_1466154433105 .column-4_12:last-child {
-    display: none;
+    /* display: none; */
   }
 }
 .post_item_404 .post_content .go_home {

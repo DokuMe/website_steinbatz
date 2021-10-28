@@ -197,6 +197,11 @@ header .menu_main_wrap.main_menu_index {
 
 /*Startpage Sections*/
 
+/*Contact box*/
+.vc_custom_1466154433105 .column-4_12:last-child {
+  border-top: 2px solid #e39a31;
+}
+
 @media(min-width:769px){
   .row.intro-section {
     min-height: auto!important;
@@ -217,6 +222,10 @@ header .menu_main_wrap.main_menu_index {
     width: 80%;
     height: 0;
     border-bottom: 1px solid #e39a31;
+  }
+
+  .vc_custom_1466154433105 .column-4_12:last-child {
+    border-top: none;
   }
 }
 

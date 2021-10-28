@@ -80,6 +80,14 @@
 /*Header Slider START*/
 .menu_style_side .wrap.header-slider {
   width: 100%;
+  border-bottom: 2rem solid #2a2a2a;
+}
+
+@media(min-width:769px){
+  .menu_style_side .wrap.header-slider {
+    border-bottom: none;
+    margin-bottom: 5rem;
+  }
 }
 
 .scheme_default .tp-bullets.custom .tp-bullet {
@@ -186,6 +194,57 @@ header .menu_main_wrap.main_menu_index {
   display: block !important;
 } */
 
+
+/*Startpage Sections*/
+
+@media(min-width:769px){
+  .row.intro-section {
+    min-height: auto!important;
+  }
+  .row.intro-section .wpb_column {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 7rem;
+    position: relative;
+  }
+
+  .row.intro-section .wpb_column:after {
+    content: '';
+    position: absolute;
+    bottom: -3.5rem;
+    left: 10%;
+    width: 80%;
+    height: 0;
+    border-bottom: 1px solid #e39a31;
+  }
+}
+
+@media(min-width:960px){
+  .row.intro-section {
+  }
+
+  .row.intro-section .wpb_column {
+    width: 900px;
+  }
+}
+
+@media(min-width:1023px){
+  .row.intro-section .wpb_column {
+    width: 1000px;
+  }
+
+  .row.intro-section .sc_promo {
+    height: 460px;
+  }
+
+  .row.intro-section .sc_promo .trx_addons_stretch_height {
+    min-height: 55vh;
+  }
+}
+
+/*Startpage Sections END*/
+
 /*Product list Buy Wines*/
 
 .woocommerce ul.products li.product .post_item {
@@ -221,3 +280,5 @@ header .menu_main_wrap.main_menu_index {
     height: 500px;
   }
 }
+
+/*Product list Buy Wines END*/

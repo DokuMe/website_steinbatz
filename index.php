@@ -101,7 +101,7 @@
 								</div>
 								<!--Slider END-->
 
-								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height">
+								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
@@ -121,7 +121,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height">
+								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
 										<div class="vc_column-inner vc_custom_1465806595697">
 											<div class="wpb_wrapper">
@@ -141,7 +141,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height">
+								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
@@ -161,7 +161,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height">
+								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
 										<div class="vc_column-inner vc_custom_1465806595697">
 											<div class="wpb_wrapper">

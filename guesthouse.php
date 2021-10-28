@@ -151,7 +151,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="scheme_dark wpb_row">
+				<!-- <div class="scheme_dark wpb_row">
 					<div class="wrap">
 						<div class="row">
 							<div class="wpb_column vc_column_container column-2_12">
@@ -212,8 +212,8 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="wrap">
+				</div> -->
+				<!-- <div class="wrap">
 					<div class="row">
 						<div class="wpb_column vc_column_container column-12_12">
 							<div class="vc_column-inner ">
@@ -268,7 +268,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			
 			<?php include 'includes/footer.php'; ?>

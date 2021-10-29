@@ -218,6 +218,10 @@ body:not(.single) .top_panel {
     height: 60px;
   }
 
+  .desktop_layout .menu_desktop.top_panel_navi .menu_main_nav>li.menu-item-has-children>a:after {
+    right: 0;
+  }
+
   .desktop_layout .menu_desktop {
 
   }

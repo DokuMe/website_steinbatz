@@ -18,35 +18,54 @@
 						</div>
 					</div>
 
-					<div class="menu_desktop menu_header_wrap clearfix">
-						<div class="content_wrap">
-							<nav class="menu_main_nav_area menu_hover_fade menu_show">
-								<ul id="menu_main" class="menu_main_nav">
-									<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
-											<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
-										</ul>
-									</li>
-									<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
-									<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
-									<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Online Shop</span></a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
-											<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
-											<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
-										</ul>
-									</li>
-								</ul>
-							</nav>
+					<div class="menu_desktop top_panel_navi scheme_default">
+						<div class="menu_main_wrap clearfix">
+							<div class="wrap">
+								<nav class="menu_main_nav_area menu_hover_fade menu_show">
+									<ul id="menu_main" class="menu_main_nav">
+										<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
+												<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
+											</ul>
+										</li>
+										<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
+											</ul>
+										</li>
+										<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
+										<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
+										<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Online Shop</span></a>
+											<ul class="sub-menu">
+												<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
+												<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
+												<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
+											</ul>
+										</li>
+									</ul>
+
+									<div class="search_wrap search_style_fullscreen">
+										<div class="search_form_wrap">
+											<form role="search" method="get" class="search_form" action="#">
+												<input type="text" class="search_field" placeholder="Search" value="" name="s">
+												<button type="submit" class="search_submit icon-search"></button>
+												<a class="search_close icon-cancel"></a>
+											</form>
+										</div>
+										<div class="search_results widget_area">
+											<a href="#" class="search_results_close icon-cancel"></a>
+											<div class="search_results_content"></div>
+										</div>
+									</div>
+
+								</nav>
+							</div>
 						</div>
 					</div>
 				</div>
+
+				
 
 			</header>
 			<div class="menu_side_wrap scheme_dark">

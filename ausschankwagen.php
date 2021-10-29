@@ -74,10 +74,10 @@
 						<div class="wpb_column vc_column_container column-8_12">
 							<div class="vc_column-inner ">
 								<div class="wpb_wrapper">
-									<div class="vc_empty_space  height_tiny" style="height: 0px"></div>
+									<div class="vc_empty_space height_tiny" style="height: 0px"></div>
 									<div class="sc_promo sc_promo_default sc_promo_size_normal sc_promo_no_paddings sc_promo_no_image">
 										<div class="sc_promo_text" style="width: 100%;">
-											<div class="sc_promo_text_inner sc_align_center">
+											<div class="sc_promo_text_inner">
 												<h5 class="sc_item_subtitle sc_promo_subtitle">Weinverkaufsausschankwagen mieten</h5>
 												<div class="sc_promo_content sc_item_content">
 													<div class="wpb_text_column wpb_content_element ">
@@ -89,7 +89,6 @@
 											</div>
 										</div>
 									</div>
-									<div class="vc_empty_space  height_large hide_on_mobile" style="height: 0px"></div>
 									<div class="vc_empty_space  height_tiny" style="height: 0px"></div>
 								</div>
 
@@ -110,6 +109,23 @@
 										</div>
 									</div>
 
+								</div>
+
+								<div class="wpb_wrapper">
+									<div class="sc_promo sc_promo_default sc_promo_size_normal sc_promo_no_paddings sc_promo_no_image">
+										<div class="sc_promo_text" style="width: 100%;">
+											<div class="sc_promo_text_inner">
+												<div class="sc_promo_content sc_item_content">
+													<div class="wpb_text_column wpb_content_element ">
+														<div class="wpb_wrapper">
+															<p>Preis auf Anfrage.</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="vc_empty_space  height_tiny" style="height: 0px"></div>
 								</div>
 								<!-- <div class="vc_empty_space  height_large hide_on_mobile" style="height: 0px"></div>
 								<div class="vc_empty_space  height_tiny" style="height: 0px"></div> -->

@@ -10,7 +10,7 @@
 				<div class="top_panel_fixed_wrap"></div>
 
 				<div class="desktop_logo_menu_container">
-					<div class="top_panel_navi scheme_dark">
+					<div class="top_panel_navi index_page_logo scheme_dark">
 						<div class="menu_main_wrap main_menu_index clearfix">
 							<div class="wrap">
 								<a class="logo" href="index.php"><img src="images/steinbatz_logo.png" class="logo_main" alt="" /></a>

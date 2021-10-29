@@ -202,19 +202,19 @@ body:not(.single) .top_panel {
     margin-bottom: 0;
   }
 
-  .desktop_layout .top_panel_navi {
+  .desktop_layout .top_panel_navi.index_page_logo {
     float: left;
   }
 
-  .menu_style_side .wrap {
+  .desktop_layout .top_panel_navi.index_page_logo .wrap {
     width: auto;
   }
 
-  .desktop_layout .top_panel.without_bg_image .logo {
+  .desktop_layout .top_panel_navi.index_page_logo .logo {
     margin: 0;
   }
 
-  .desktop_layout .top_panel_navi .logo img {
+  .desktop_layout .top_panel_navi.index_page_logo .logo img {
     height: 60px;
   }
 

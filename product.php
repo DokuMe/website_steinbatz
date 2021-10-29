@@ -2,7 +2,7 @@
 <html lang="en-US" class="no-js scheme_default">
 
 <?php include 'includes/head.php'; ?>
-<body class="single single-product postid-403 woocommerce woocommerce-page body_tag body_style_wide scheme_default blog_mode_shop  is_stream blog_style_excerpt sidebar_hide expand_content header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
+<body class=" single-product postid-403 woocommerce woocommerce-page body_tag body_style_wide scheme_default blog_mode_shop  is_stream blog_style_excerpt sidebar_hide expand_content header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
 	<div class="body_wrap">
 		<div class="page_wrap">
 		<header class="top_panel top_panel_style_1 without_bg_image scheme_default">

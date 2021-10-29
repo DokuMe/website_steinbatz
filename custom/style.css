@@ -201,7 +201,8 @@ body.menu_style_side {
   }
 }
 
-body:not(.single) .top_panel {
+body:not(.single) .top_panel,
+.top_panel {
   margin-bottom: 4rem;
 }
 
@@ -214,7 +215,8 @@ body:not(.single) .top_panel {
   .top_panel.without_bg_image .top_panel_title_wrap {
     top: 0;
   }
-  body:not(.single) .top_panel {
+  body:not(.single) .top_panel,
+  .top_panel {
     margin-bottom: 0;
   }
 

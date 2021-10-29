@@ -2,7 +2,6 @@
 <html lang="en-US" class="no-js scheme_default">
 
 <?php include 'includes/head.php'; ?>
-
 <body class="page page-id-36 page-template-default body_tag body_style_wide scheme_default blog_mode_page is_single sidebar_hide expand_content remove_margins header_style_header-1 header_position_default header_title_on menu_style_top no_layout vc_responsive">
 	<div class="body_wrap">
 		<div class="page_wrap">

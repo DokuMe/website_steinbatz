@@ -85,7 +85,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -114,7 +114,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -146,7 +146,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -167,7 +167,7 @@
 															<h2 class="sc_item_title sc_promo_title">
 																<!-- <small>2020</small> -->
 																<br>Rosé Blauer Zweigelt</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Strohgelb mit leicht grünen Reflexen, typischer Duft nach Muskat, saftige Frucht am Gaumen, harmonisches Säurespiel mit elegantem Finish</h5>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Rosa, Bukett nach Kirsche und Erdbeere, das sich am Gaumen angenehm fortsetzt</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
@@ -177,7 +177,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -208,7 +208,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -239,7 +239,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -270,7 +270,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -301,7 +301,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -332,7 +332,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -363,7 +363,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -394,7 +394,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -425,7 +425,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -456,7 +456,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -487,7 +487,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -518,7 +518,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -539,7 +539,7 @@
 															<h2 class="sc_item_title sc_promo_title">
 																<small>2020</small>
 																<br>Muskateller Kabinett</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Strahlendes Strohgelb mit leicht grünen Reflexen, typischer Duft nach Muskat, saftige Frucht am Gaumen, harmonisches Säurespiel mit elegantem Finish</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
@@ -549,7 +549,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -579,7 +579,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -610,7 +610,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -641,7 +641,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>
@@ -672,7 +672,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="#" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="product.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Discover this wine</span></span> </a> </div>
 														</div>
 													</div>
 												</div>

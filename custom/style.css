@@ -95,23 +95,23 @@ body.menu_style_side {
   }
 
   .menu_desktop .menu_main_nav_area {
-    margin-top: 4rem;
+    margin-top: 1em;
   }
 
   .menu_desktop ul.menu_main_nav .menu-item a {
-    font-size: 1.2em;
+    font-size: 1em;
     color: #fff;
     text-shadow: 0 0 10px #2a2a2a;
-    padding-right: 1rem;
-    padding-left: 1rem
+    padding-right: 1em;
+    padding-left: 1em
   }
 
   .menu_desktop ul.menu_main_nav .menu-item .sub-menu .menu-item {
-    line-height: 2rem;
+    line-height: 1rem;
   }
 
   .menu_desktop ul.menu_main_nav .menu-item .sub-menu .menu-item a {
-    font-size: .8rem;
+    font-size: .7rem;
     color: #2a2a2a;
     text-shadow: none;
   }
@@ -119,11 +119,21 @@ body.menu_style_side {
   .menu_desktop ul.menu_main_nav>li+li>a:before {
     display: none;
   }
+
+  .menu_desktop .search_wrap .icon-search:before,
+  .menu_desktop .search_style_fullscreen.search_opened .search_close:before {
+    color: #fff;
+    text-shadow: 0 0 10px #2a2a2a;
+  }
 }
 
 @media(min-width: 1439px) {
   .menu_desktop .menu_main_nav_area {
-    margin-top: 5rem;
+    margin-top: 1em;
+  }
+
+  .menu_desktop ul.menu_main_nav .menu-item a {
+    font-size: 1.2em;
   }
 }
 /*SIDEWAYS DESKTOP MENU DESIGN END*/

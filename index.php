@@ -109,11 +109,6 @@
 							</form>
 						</div>
 					</div>
-					<div class="socials_mobile"><span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
-						</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
-						</span>
-					</div>
 				</div>
 			</div>
 			<div class="page_content_wrap scheme_default">

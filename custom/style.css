@@ -189,6 +189,12 @@ body.menu_style_side {
   }
 }
 
+@media (max-width: 959px) {
+  .top_panel.without_bg_image .top_panel_title_wrap {
+    left: 50%;
+  }
+}
+
 @media (min-width: 480px) {
   .top_panel.without_bg_image .top_panel_title_wrap {
     top: 9rem;

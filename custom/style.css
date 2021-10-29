@@ -94,9 +94,14 @@ body.menu_style_side {
     list-style: none;
   }
 
+  .menu_desktop .menu_main_nav_area {
+    margin-top: 4rem;
+  }
+
   .menu_desktop ul.menu_main_nav .menu-item a {
-    font-size: 1rem;
+    font-size: 1.2em;
     color: #fff;
+    text-shadow: 0 0 10px #2a2a2a;
     padding-right: 1rem;
     padding-left: 1rem
   }
@@ -108,10 +113,17 @@ body.menu_style_side {
   .menu_desktop ul.menu_main_nav .menu-item .sub-menu .menu-item a {
     font-size: .8rem;
     color: #2a2a2a;
+    text-shadow: none;
   }
 
   .menu_desktop ul.menu_main_nav>li+li>a:before {
     display: none;
+  }
+}
+
+@media(min-width: 1439px) {
+  .menu_desktop .menu_main_nav_area {
+    margin-top: 5rem;
   }
 }
 /*SIDEWAYS DESKTOP MENU DESIGN END*/
@@ -120,7 +132,7 @@ body.menu_style_side {
 /*Header Slider START*/
 .menu_style_side .wrap.header-slider {
   width: 100%;
-  border-bottom: 2rem solid #2a2a2a;
+  border-bottom: 2px solid #e39a31;
 }
 
 @media(min-width:769px){
@@ -178,11 +190,43 @@ body:not(.single) .top_panel {
 }
 
 @media (min-width: 959px) {
+  header .desktop_logo_menu_container {
+    margin: 0 auto;
+    width: 900px
+  }
+
   .top_panel.without_bg_image .top_panel_title_wrap {
     top: 0;
   }
   body:not(.single) .top_panel {
     margin-bottom: 0;
+  }
+
+  .desktop_layout .top_panel_navi {
+    float: left;
+  }
+
+  .menu_style_side .wrap {
+    width: auto;
+  }
+
+  .desktop_layout .top_panel.without_bg_image .logo {
+    margin: 0;
+  }
+
+  .desktop_layout .top_panel_navi .logo img {
+    height: 60px;
+  }
+
+  .desktop_layout .menu_desktop {
+
+  }
+}
+
+@media (min-width: 1023px) {
+  header .desktop_logo_menu_container {
+    margin: 0 auto;
+    width: 1000px
   }
 }
 /*Headers Logo End*/
@@ -201,7 +245,6 @@ header .menu_main_wrap.main_menu_index {
 }
 
 .wrap.header-slider .tp-parallax-wrap .tp-loop-wrap .tp-mask-wrap {
-  /* position: static !important; */
   width: 100% !important;
   height: 100% !important;
   top: 0;
@@ -226,15 +269,11 @@ header .menu_main_wrap.main_menu_index {
 
 .wrap.header-slider h1.tp-caption.shop_slider_title a.shop-title-link {
   color: #fff;
+  text-shadow: 0 0 10px #2a2a2a;
 }
-
-/* .menu_mobile_button {
-  display: block !important;
-} */
-
+/*Header Slider END*/
 
 /*Startpage Sections*/
-
 /*Contact box*/
 .vc_custom_1466154433105 .column-4_12:last-child {
   border-top: 2px solid #e39a31;
@@ -289,11 +328,9 @@ header .menu_main_wrap.main_menu_index {
     min-height: 55vh;
   }
 }
-
 /*Startpage Sections END*/
 
 /*Product list Buy Wines*/
-
 .woocommerce ul.products li.product .post_item {
   height: 330px;
 }
@@ -327,5 +364,4 @@ header .menu_main_wrap.main_menu_index {
     height: 500px;
   }
 }
-
 /*Product list Buy Wines END*/

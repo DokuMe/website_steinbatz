@@ -1,17 +1,17 @@
 <footer class="site_footer_wrap scheme_dark">
 	<div class="logo_footer_wrap scheme_dark">
 		<div class="logo_footer_wrap_inner">
-			<a href="index.html"><img src="images/Logo3_white.png" class="logo_footer_image" alt="" /></a>
+			<a href="index.php"><img src="images/Logo3_white.png" class="logo_footer_image" alt="" /></a>
 		</div>
 	</div>
-	<div class="socials_footer_wrap socials_wrap scheme_dark">
+	<!-- <div class="socials_footer_wrap socials_wrap scheme_dark">
 		<div class="socials_footer_wrap_inner">
 			<span class="social_item"><a href="#" target="_blank" class="social_icons social_twitter"><span class="trx_addons_icon-twitter"></span></a>
 			</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_facebook"><span class="trx_addons_icon-facebook"></span></a>
 			</span><span class="social_item"><a href="#" target="_blank" class="social_icons social_gplus"><span class="trx_addons_icon-gplus"></span></a>
 			</span>
 		</div>
-	</div>
+	</div> -->
 	<div class="menu_footer_wrap scheme_dark">
 		<div class="menu_footer_wrap_inner">
 			<nav class="menu_footer_nav_area">

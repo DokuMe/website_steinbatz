@@ -8,40 +8,43 @@
 			<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
 				<a class="menu_mobile_button"></a>
 				<div class="top_panel_fixed_wrap"></div>
-				<div class="top_panel_navi scheme_dark">
-					<div class="menu_main_wrap main_menu_index clearfix">
-						<div class="wrap">
-							<a class="logo" href="index.html"><img src="images/steinbatz_logo.png" class="logo_main" alt="" /></a>
+
+				<div class="desktop_logo_menu_container">
+					<div class="top_panel_navi scheme_dark">
+						<div class="menu_main_wrap main_menu_index clearfix">
+							<div class="wrap">
+								<a class="logo" href="index.php"><img src="images/steinbatz_logo.png" class="logo_main" alt="" /></a>
+							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="menu_desktop menu_header_wrap clearfix">
-					<div class="content_wrap">
-						<nav class="menu_main_nav_area menu_hover_fade menu_show">
-							<ul id="menu_main" class="menu_main_nav">
-								<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
-									<ul class="sub-menu">
-										<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
-										<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
-									</ul>
-								</li>
-								<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
-									<ul class="sub-menu">
-										<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
-									</ul>
-								</li>
-								<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
-								<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
-								<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Online Shop</span></a>
-									<ul class="sub-menu">
-										<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
-										<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
-										<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
-									</ul>
-								</li>
-							</ul>
-						</nav>
+					<div class="menu_desktop menu_header_wrap clearfix">
+						<div class="content_wrap">
+							<nav class="menu_main_nav_area menu_hover_fade menu_show">
+								<ul id="menu_main" class="menu_main_nav">
+									<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
+										<ul class="sub-menu">
+											<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
+											<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
+										</ul>
+									</li>
+									<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
+										<ul class="sub-menu">
+											<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
+										</ul>
+									</li>
+									<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
+									<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
+									<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Online Shop</span></a>
+										<ul class="sub-menu">
+											<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
+											<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
+											<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
+										</ul>
+									</li>
+								</ul>
+							</nav>
+						</div>
 					</div>
 				</div>
 
@@ -120,7 +123,7 @@
 															<img src="images/steinbatz/innen.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-439-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
-															<a href="product/sparkling-trilogy-cuvee-brut/index.html" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN</a>
+															<a href="product/sparkling-trilogy-cuvee-brut/index.php" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN</a>
 														</h1>
 													</li>
 												</ul>

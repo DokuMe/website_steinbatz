@@ -301,6 +301,12 @@ header .menu_main_wrap.main_menu_index {
   border-top: 2px solid #e39a31;
 }
 
+.row.intro-section .sc_promo_subtitle {
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
 @media(min-width:769px){
   .row.intro-section {
     min-height: auto!important;

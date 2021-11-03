@@ -689,7 +689,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 												<div class="vc_empty_space  height_huge hide_on_mobile" style="height: 0px"></div>
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 style="text-align: center;"><span style="color: #ffffff;">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN</span></h3>
+														<h3 style="text-align: center;"><span style="color: #ffffff;">Tradition seit 1818</span></h3>
 													</div>
 												</div>
 												<div class="vc_empty_space  height_huge hide_on_mobile" style="height: 0px"></div>

@@ -128,7 +128,7 @@
 															<img src="images/steinbatz/reben2.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
-															<a href="product.html" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - Tradition seit 1818</a> 
+															<a href="product.html" class="shop-title-link">Tradition seit 1818</a> 
 														</h1>
 													</li>
 
@@ -137,7 +137,7 @@
 															<img src="images/steinbatz/innen.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-439-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
-															<a href="product/sparkling-trilogy-cuvee-brut/index.php" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - Tradition seit 1818</a>
+															<a href="product/sparkling-trilogy-cuvee-brut/index.php" class="shop-title-link">Tradition seit 1818</a>
 														</h1>
 													</li> -->
 												</ul>

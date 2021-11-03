@@ -259,6 +259,11 @@
     padding-top: 8%;
   }
 }
+/*Set to display none when there is only one image in slider*/
+/*Set back to block when more images added*/
+.tp-bullet {
+  display: none;
+}
 @media(max-width:769px){
   .tp-bullet {
     display: none;

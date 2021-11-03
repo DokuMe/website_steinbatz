@@ -128,18 +128,18 @@
 															<img src="images/steinbatz/reben2.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
-															<a href="product.html" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN</a> 
+															<a href="product.html" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - Tradition seit 1818</a> 
 														</h1>
 													</li>
 
-													<li data-index="rs-439" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" class="shop_slider_slide" data-title="Sparkling Trilogy" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Bild 2">
+													<!-- <li data-index="rs-439" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" class="shop_slider_slide" data-title="Sparkling Trilogy" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Bild 2">
 														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-439-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;" data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;">
 															<img src="images/steinbatz/innen.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-439-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
-															<a href="product/sparkling-trilogy-cuvee-brut/index.php" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - WEIN MIT GENUSS TRINKEN</a>
+															<a href="product/sparkling-trilogy-cuvee-brut/index.php" class="shop-title-link">GÄSTE MIT HERZ BEWIRTEN - Tradition seit 1818</a>
 														</h1>
-													</li>
+													</li> -->
 												</ul>
 												<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
 											</div>
@@ -194,7 +194,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_favourite_place" class="sc_anchor" title="Favourite Place" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;left: 0;"></div>
+													<div class="sc_promo_image" style="background-image:url(images/wine-4813260_640.jpg);width:50%;left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-bottles"><span class="icon-bottles"></span></div>
@@ -214,7 +214,7 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_wine_essentials" class="sc_anchor" title="Wine Essentials" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/steinbatz/innen.jpg);width:50%;right: 0;"></div>
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;right: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
@@ -242,9 +242,9 @@
 												<div class="sc_promo sc_promo_default sc_promo_size_normal sc_promo_no_paddings sc_promo_no_image">
 													<div class="sc_promo_text sc_float_center" style="width: 100%;">
 														<div class="sc_promo_text_inner sc_align_center">
-															<div class="sc_promo_icon" data-icon="icon-winery"><span class="icon-winery"></span></div>
+															<!-- <div class="sc_promo_icon" data-icon="icon-winery"><span class="icon-winery"></span></div> -->
 															<h2 class="sc_item_title sc_promo_title">Kontakt aufnehmen</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb ist das Team...</h5>
+															<!-- <h5 class="sc_item_subtitle sc_promo_subtitle">Wir machen Wein mit einem Gedanken an unsere Kunden, deshalb ist das Team...</h5> -->
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">

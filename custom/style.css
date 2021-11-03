@@ -304,6 +304,7 @@ header .menu_main_wrap.main_menu_index {
 @media(min-width:769px){
   .row.intro-section {
     min-height: auto!important;
+    max-height: 60vh;
   }
   .row.intro-section .wpb_column {
     width: 600px;
@@ -328,6 +329,12 @@ header .menu_main_wrap.main_menu_index {
   }
 }
 
+@media (min-width: 1262px) {
+  .row.intro-section .sc_item_title+.sc_item_subtitle {
+    font-size: .9em;
+  }
+}
+
 @media(min-width:960px){
   .row.intro-section {
   }
@@ -343,11 +350,21 @@ header .menu_main_wrap.main_menu_index {
   }
 
   .row.intro-section .sc_promo {
-    height: 460px;
+    height: 360px;
   }
 
   .row.intro-section .sc_promo .trx_addons_stretch_height {
-    min-height: 55vh;
+    min-height: 39vh;
+  }
+}
+
+.sc_promo.sc_promo_size_large .sc_promo_icon {
+  font-size: 4em !important;
+}
+
+@media (min-width: 960px) and (max-width: 1262px) {
+  .sc_promo_text_inner {
+    padding: 1em 12% !important;
   }
 }
 /*Startpage Sections END*/

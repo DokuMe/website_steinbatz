@@ -290,8 +290,8 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title">
 																<small></small>
-																<br>Blauer Zweigelt Classic</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+																<br>Blauer Zweigelt Classic Liter</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Helles Runbinrot, leicht und fruchtig, im Duft an Kirschtöne erinnernd, am Gaumen sehr harmonsich und elegant</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
@@ -352,8 +352,8 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title">
 																<small></small>
-																<br>Blauer Zweigelt Barique Trocken</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+																<br>Blauer Zweigelt Barrique</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Dunkles Rubingranat, in der Nase reife Waldbeeren, am Gaumen saftig, elegant mit zartem Holzton, gehaltvoller und lang anhaltender Abgang</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
@@ -383,8 +383,8 @@
 														<div class="sc_promo_text_inner sc_align_center">
 															<h2 class="sc_item_title sc_promo_title">
 																<small></small>
-																<br>Blauer Zweigelt Trocken</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+																<br>Blauer Zweigelt Classic trocken</h2>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Tiefrot, im Duft saftige Kirschen mit frischer Frucht nach reifen Weichseln, eleganter Körper und zarten Gewürzaromen</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">
@@ -415,7 +415,7 @@
 															<h2 class="sc_item_title sc_promo_title">
 																<small></small>
 																<br>Sankt Laurent</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</h5>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">Helles Rubinrot, leicht und fruchtig, in der Nase leichter Waldbeerenduft, trinkanimierend</h5>
 															<div class="sc_promo_content sc_item_content">
 																<div class="wpb_text_column wpb_content_element ">
 																	<div class="wpb_wrapper">

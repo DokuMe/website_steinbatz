@@ -270,7 +270,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																<div class="post_data">
 																	<div class="post_header entry-header">
 																		<!-- <div class="post_tags product_tags"><a href="product.php" rel="tag">2020</a></div> -->
-																		<h3><a href="product.php">Blauer Zweigelt Classic</a></h3>
+																		<h3><a href="product.php">Blauer Zweigelt Classic Liter</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
 																	</span>
@@ -414,7 +414,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.php">
-																		<img width="360" height="480" src="images/wines/blauer_zweigelt_barique.png" alt="Blauer Zweigelt Barique Trocken" title="Grüner Veltliner"/> </a>
+																		<img width="360" height="480" src="images/wines/blauer_zweigelt_barique.png" alt="Blauer Zweigelt Barrique" title="Grüner Veltliner"/> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -424,7 +424,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																<div class="post_data">
 																	<div class="post_header entry-header">
 																		<!-- <div class="post_tags product_tags"><a href="product.php" rel="tag">1818</a></div> -->
-																		<h3><a href="product.php">Blauer Zweigelt Barique Trocken</a></h3>
+																		<h3><a href="product.php">Blauer Zweigelt Barrique</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
 																	</span>
@@ -436,7 +436,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 															<div class="post_item post_layout_thumbs">
 																<div class="post_featured hover_shop">
 																	<a href="product.php">
-																		<img width="360" height="480" src="images/wines/blauer_zweigelt_trocken_075_rot_huelle.png" alt="Blauer Zweigelt Trocken" title="Blauer Zweigelt Trocken"/> </a>
+																		<img width="360" height="480" src="images/wines/blauer_zweigelt_trocken_075_rot_huelle.png" alt="Blauer Zweigelt Classic trocken" title="Blauer Zweigelt Classic trocken"/> </a>
 																	<div class="mask"></div>
 																	<div class="icons">
 																		<a rel="nofollow" href="#" aria-hidden="true" data-quantity="1" data-product_id="404" data-product_sku="" class="shop_cart icon-shopping-cart button add_to_cart_button product_type_simple ajax_add_to_cart"></a>
@@ -446,7 +446,7 @@ KOMPONIEREN: Oysters with mirin dressing or seared scallops with mediterranean v
 																<div class="post_data">
 																	<div class="post_header entry-header">
 																		<!-- <div class="post_tags product_tags"><a href="product.php" rel="tag">1818</a></div> -->
-																		<h3><a href="product.php">Blauer Zweigelt Trocken</a></h3>
+																		<h3><a href="product.php">Blauer Zweigelt Classic trocken</a></h3>
 																	</div>
 																	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€ </span>247<span class="decimals">00</span></span>
 																	</span>

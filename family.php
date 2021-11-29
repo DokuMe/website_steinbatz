@@ -80,9 +80,10 @@
 												<div class="sc_promo_content sc_item_content">
 													<div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
-															<b>Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich. </b>
 															<p>
-Wir sind ein traditioneller Familienbetrieb, der bereits in der 8. Generation von Franz Steinbatz und seiner Frau Renate geführt wird. Auf einer Rebfläche von rund 10 ha kultivieren wir unsere Weine. Die Reben gedeihen größtenteils auf Lössböden und sind vom pannonischen Klima geprägt. Die Weingärten werden von der ganzen Familie gepflegt und die Weine mit modernster Kellertechnik weiterverarbeitet. Die Hauptsorten sind Grüner Veltliner und Riesling im Weißweinbereich, bei den Rotweinen dominiert der Zweigelt. 
+															Wir sind ein traditioneller Familienbetrieb, der bereits in der 8. Generation von Franz Steinbatz geführt wird.
+Auf einer Fläche von 10 ha bewirtschaften wir mit viel Leidenschaft und Wissen unsere Rieden, um jedes Jahr sortenreine, gebietstypische und fruchtige Weine höchster Qualität zu vinifizieren. Durch den tiefgründigen Löss und das pannonische Klima mit der hohen Anzahl an Sonnenstunden und kühlen Nächten werden die perfekten Voraussetzungen für unsere qualitative Sortenvielfalt gebildet. Die Weingärten werden von der ganzen Familie gepflegt und mit modernster Kellertechnik weiterverarbeitet. 
+Unser Sortenspektrum reicht vom leichten, fruchtigen Weißwein bis hin zum gehaltvollen, gereiften Rotwein.
 </p>
 														</div>
 													</div>

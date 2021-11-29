@@ -80,6 +80,9 @@
 												<div class="sc_promo_content sc_item_content">
 													<div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
+															<p>
+															Urlauben, wo der Wein wächst und gekeltert wird. Genießen Sie eine erholsame Zeit bei uns im Kremstal, verkosten Sie unsere Weine und überzeugen Sie sich von der Qualität unserer Produkte.
+															</p>
 															<p>Direkt in unserem Winzerhof, einem bestehenden Vierkanthof mit langer Tradition befindet sich auch unser gemütliches Gästehaus. Seit 2011 finden Sie bei uns 5 modern ausgestattete und geräumige Zimmer für bis zu 10 Personen. Diese wurden durch den Verein „Urlaub am Winzerhof“ mit der höchsten Bewertung ausgezeichnet.</p>
 															<p>Nutzen Sie unsere kostenlosen Leihfahrräder zum Erkunden des Kremstals, lassen Sie die Seele an unserem nahegelegenen Schwimmteich baumeln oder entspannen Sie bei einem Gläschen Wein in unserem Verkostungsraum. Nach einer erholsamen Nacht erwartet Sie ein ausgezeichnetes Frühstücksbuffet mit regionalen und saisonalen Köstlichkeiten.<br><br>Statten Sie uns doch nach telefonischer Vereinbarung einen Besuch auf unserem Winzerhof ab, verkosten Sie unsere hervorragenden Weine und verbringen Sie eine schöne Zeit bei uns. Wir freuen uns auf Sie!</p>
 														</div>

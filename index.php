@@ -13,7 +13,9 @@
 					<div class="top_panel_navi index_page_logo scheme_dark">
 						<div class="menu_main_wrap main_menu_index clearfix">
 							<div class="wrap">
-								<a class="logo" href="index.php"><img src="images/steinbatz_logo.png" class="logo_main" alt="" /></a>
+								<a class="logo">
+									<img src="images/steinbatz_logo.png" class="logo_main" alt="" />
+								</a>
 							</div>
 						</div>
 					</div>
@@ -128,7 +130,7 @@
 															<img src="images/steinbatz/reben2.jpg" width="540" height="720" data-no-retina alt="" />
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
-															<a href="product.html" class="shop-title-link">Tradition seit 1818</a> 
+															<a class="shop-title-link">Das Leben ist zu kurz um schlechten Wein zu trinken</a> 
 														</h1>
 													</li>
 
@@ -148,18 +150,30 @@
 								</div>
 								<!--Slider END-->
 
+								<div class="wrap headline-welcome">
+									<div class="row">
+										<div class="wpb_column vc_column_container column-12_12">
+											<div class="vc_column-inner ">
+												<h2 class="sc_item_title sc_promo_title">Herzlich Willkommen am Winzerhof Steinbatz</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+
 								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_favourite_place" class="sc_anchor" title="Favourite Place" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;left: 0;"></div>
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/franz-renate-900-2.jpg);width:50%;left: 0;"></div>
 													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
 															<h2 class="sc_item_title sc_promo_title" id="aboutUs">Über uns</h2>
-															<h5 class="sc_item_subtitle sc_promo_subtitle">3 Generationen - eine Leidenschaft - ein Ziel</h5>
+															<h5 class="sc_item_subtitle sc_promo_subtitle">
+															Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich. In unserem Familienbetrieb wird schon seit vielen Generationen Weinbau erfolgreich betrieben, wobei unser Sortiment ständig gewachsen ist.
+															</h5>
 															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="family.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
 														</div>
 													</div>

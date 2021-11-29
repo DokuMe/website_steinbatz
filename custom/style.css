@@ -281,6 +281,7 @@ header .menu_main_wrap.main_menu_index {
 .wrap.header-slider .tp-parallax-wrap .tp-loop-wrap .tp-mask-wrap img {
   width: 100% !important;
   height: auto !important;
+  opacity: .6;
 }
 
 .wrap.header-slider h1.tp-caption.shop_slider_title {
@@ -290,10 +291,45 @@ header .menu_main_wrap.main_menu_index {
 }
 
 .wrap.header-slider h1.tp-caption.shop_slider_title a.shop-title-link {
-  color: #fff;
-  text-shadow: 0 0 10px #2a2a2a;
+  color: #000;
+  text-shadow: 0 0 10px rgba(255,255,255,0.7);
 }
 /*Header Slider END*/
+
+/*Headline Welcome START*/
+.headline-welcome {
+  width: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: 2px solid #e39a31
+}
+
+.headline-welcome .sc_item_title.sc_promo_title { 
+  font-size: .8em;
+  text-transform: unset;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+@media (min-width: 479px) {
+  .headline-welcome {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+  }
+
+  .headline-welcome .sc_item_title.sc_promo_title { 
+    font-size: 1.8em;
+  }
+}
+
+@media (min-width: 769px) {
+  .headline-welcome {
+    padding-top: 0;
+    padding-bottom: 4.5em;
+    border-bottom: none;
+  }
+}
+/*Headline Welcome END*/
 
 /*Startpage Sections*/
 /*Contact box*/
@@ -337,14 +373,11 @@ header .menu_main_wrap.main_menu_index {
 
 @media (min-width: 1262px) {
   .row.intro-section .sc_item_title+.sc_item_subtitle {
-    font-size: .9em;
+    font-size: .8em;
   }
 }
 
 @media(min-width:960px){
-  .row.intro-section {
-  }
-
   .row.intro-section .wpb_column {
     width: 900px;
   }
@@ -366,11 +399,22 @@ header .menu_main_wrap.main_menu_index {
 
 .sc_promo.sc_promo_size_large .sc_promo_icon {
   font-size: 4em !important;
+  margin-bottom: 0;
 }
 
 @media (min-width: 960px) and (max-width: 1262px) {
   .sc_promo_text_inner {
     padding: 1em 12% !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .sc_promo .sc_promo_text.trx_addons_stretch_height .sc_promo_text_inner {
+    top: 60%;
+  }
+
+  .sc_item_subtitle+.sc_item_button {
+    margin-top: 1em;
   }
 }
 /*Startpage Sections END*/

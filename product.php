@@ -12,57 +12,21 @@
 				<div class="content_wrap">
 					<div class="top_panel_title">
 						<div class="page_title">
-							<h1 class="page_caption">Produktname</h1>
+							<h1 class="page_caption">Grüner Veltliner Kabinett</h1>
 						</div>
 						<div class="breadcrumbs">
 							<a class="breadcrumbs_item home" href="index.html">Home</a>
 							<span class="breadcrumbs_delimiter"></span>
 							<a class="breadcrumbs_item cat_post" href="buy-wines.php">Unser Shop</a>
 							<span class="breadcrumbs_delimiter"></span>
-							<span class="breadcrumbs_item current">Produktname</span>
+							<span class="breadcrumbs_item current">Grüner Veltliner Kabinett</span>
 						</div>
 					</div>
 				</div>
 			</div>
 		</header>
 
-		<div class="menu_mobile_overlay"></div>
-			<div class="menu_mobile scheme_dark">
-				<div class="menu_mobile_inner">
-					<a class="menu_mobile_close icon-cancel"></a>
-					<nav class="menu_mobile_nav_area">
-						<ul id="menu_mobile" class="menu_mobile_nav">
-							<li class="menu-item"><a href="index.php"><span>Home</span></a>
-							</li>
-							<li class="menu-item"><a href="wine-list.php"><span>Weingut</span></a></li>
-							<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
-								<ul class="sub-menu">
-								<li class="menu-item"><a href="family.php"><span>Familie</span></a></li>
-								<li class="menu-item"><a href="lagen.php"><span>Lagen</span></a></li>
-								</ul>
-							</li>
-							<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a>
-							<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a>
-							</li>
-							<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Shop</span></a>
-								<ul class="sub-menu">
-								<li class="menu-item"><a href="cart.php"><span>Warenkorb</span></a></li>
-								<li class="menu-item"><a href="checkout.php"><span>Checkout</span></a></li>
-								<li class="menu-item"><a href="account.php"><span>Mein Konto</span></a></li>
-								</ul>
-							</li>
-						</ul>
-					</nav>
-					<div class="search_mobile">
-						<div class="search_form_wrap">
-							<form role="search" method="get" class="search_form" action="#">
-								<input type="text" class="search_field" placeholder="Search ..." value="" name="s">
-								<button type="submit" class="search_submit icon-search" title="Start search"></button>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
+		<?php include 'includes/header_mobile.php'; ?>
 
 		<div class="page_content_wrap scheme_default">
 			<div class="wrap">
@@ -71,7 +35,7 @@
 						<!-- <nav class="woocommerce-breadcrumb"><a href="index.html">Home</a>&nbsp;&#47;&nbsp;<a href="shop.html">Red wines</a>&nbsp;&#47;&nbsp;Grüner Veltliner Kabinett 2020</nav> -->
 						<div class="product type-product has-post-thumbnail first">
 							<div class="images">
-								<a href="images/wines/gruener_veltliner.png" class="woocommerce-main-image zoom" title="" data-rel="prettyPhoto[product-gallery]"><img width="540" height="720" src="images/wines/gruener_veltliner.png" alt="Produktname" title="" /></a>
+								<a href="images/wines/gruener_veltliner.png" class="woocommerce-main-image zoom" title="" data-rel="prettyPhoto[product-gallery]"><img width="540" height="720" src="images/wines/gruener_veltliner.png" alt="Grüner Veltliner Kabinett" title="" /></a>
 								<!-- <div class="thumbnails columns-4">
 									<a href="images/Classic_CabernetSauvignon_43x2.png" class="zoom first" title="" data-rel="prettyPhoto[product-gallery]"><img width="180" height="240" src="images/Classic_CabernetSauvignon_43x2-180x240.png" class="attachment-shop_thumbnail size-shop_thumbnail" alt="Classic_CabernetSauvignon_43x2" title="" /></a>
 									<a href="images/kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2.png" class="zoom" title="" data-rel="prettyPhoto[product-gallery]"><img width="180" height="240" src="images/kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2-180x240.png" class="attachment-shop_thumbnail size-shop_thumbnail" alt="kaO0w6Nl-FineWines_CentenaryHill_Shiraz_43x2" title="" /></a>
@@ -88,12 +52,14 @@
 									<a href="#reviews" class="woocommerce-review-link" rel="nofollow">(<span  class="count">1</span> customer review)</a> 
 								</div> -->
 								<div >
-									<p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>300<span class="decimals">50</span></span></p>
+									<p class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">€</span>5<span class="decimals">50</span></span></p>
 								</div>
 								<div>
-									<!-- <p><strong>TASTE:</strong> Delicate fresh blossom aromas teamed with juicy lemon flavours.</p>
-									<p><strong>SMELL:</strong> Finely balanced, showing juicy lemon and lime flavours, supported by elegant mineral acidity.</p>
-									<p><strong>COMPLEMENTS:</strong> Oysters with mirin dressing or seared scallops with mediterranean vegetables tossed with lemon dressing.</p> -->
+									<p><strong>Flaschengröße: </strong>0,75l</p>
+									<p><strong>Jahrgang: </strong>2020</p>
+									<p><strong>Alkoholgehalt: </strong>12,5 vol%</p>
+									<p><strong>Restzucker: </strong>trocken</p>
+									<p><strong>Enthält: </strong>Sulfite</p>
 									<p>Strahlendes Grüngelb mit feiner Würze und toller Frucht am Gaumen</p>
 								</div>
 								<form class="cart" method="post" enctype='multipart/form-data'>
@@ -109,7 +75,8 @@
 									<span class="product_id">Product ID: <span>403</span></span>
 								</div> -->
 							</div>
-							<div class="woocommerce-tabs wc-tabs-wrapper">
+
+							<!-- <div class="woocommerce-tabs wc-tabs-wrapper">
 								<ul class="tabs wc-tabs">
 									<li class="description_tab">
 										<a href="#tab-description">Description</a>
@@ -130,11 +97,11 @@
 											<ol class="commentlist">
 												<li  class="comment byuser comment-author-trx_admin bypostauthor even thread-even depth-1" id="li-comment-6">
 													<div id="comment-6" class="comment_container">
-														<!-- <img alt='' src='images/avatar.jpg' class='avatar avatar-60 photo' height='60' width='60' /> -->
+														<img alt='' src='images/avatar.jpg' class='avatar avatar-60 photo' height='60' width='60' />
 														<div class="comment-text">
-															<!-- <div   class="star-rating" title="Rated 5 out of 5">
+															<div   class="star-rating" title="Rated 5 out of 5">
 																<span style="width:100%"><strong>5</strong> out of 5</span>
-															</div> -->
+															</div>
 															<p class="meta">
 																<strong >John Snow</strong> &ndash; <time datetime="2016-06-09T07:24:33+00:00">June 2016</time>:
 															</p>
@@ -152,14 +119,14 @@
 													<h3 id="reply-title" class="comment-reply-title">Add a review <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small></h3>
 													<form action="#" method="post" id="commentform" class="comment-form" novalidate>
 														<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
-														<!-- <p class="comment-form-rating"><label for="rating">Your Rating</label><select name="rating" id="rating" required>
+														<p class="comment-form-rating"><label for="rating">Your Rating</label><select name="rating" id="rating" required>
 														<option value="">Rate&hellip;</option>
 														<option value="5">Perfect</option>
 														<option value="4">Good</option>
 														<option value="3">Average</option>
 														<option value="2">Not that bad</option>
 														<option value="1">Very Poor</option>
-														</select></p> -->
+														</select></p>
 														<p class="comment-form-comment"><label for="comment">Your Review <span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" required></textarea></p>
 														<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" required /></p>
 														<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" required /></p>
@@ -173,7 +140,8 @@
 										<div class="clear"></div>
 									</div>
 								</div>
-							</div>
+							</div> -->
+
 							<!-- <div class="related products">
 								<h2>Related Products</h2>
 								<ul class="products">

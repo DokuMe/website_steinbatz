@@ -28,14 +28,9 @@
 										<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
 											<ul class="sub-menu">
 												<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
-												<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
 											</ul>
 										</li>
-										<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
-											<ul class="sub-menu">
-												<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
-											</ul>
-										</li>
+										<li class="menu-item"><a href="guesthouse.php"><span>Gästehaus</span></a></li>
 										<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
 										<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
 										<li class="menu-item menu-item-has-children"><a href="buy-wines.php"><span>Online Shop</span></a>
@@ -84,14 +79,9 @@
 							<li class="menu-item menu-item-has-children"><a><span>Winzerhof</span></a>
 								<ul class="sub-menu">
 									<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
-									<li class="menu-item"><a href="wine-list.php"><span>Sortenvielfalt</span></a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-has-children"><a href="guesthouse.php"><span>Gästehaus</span></a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="lagen.php"><span>Zimmer</span></a></li>
-								</ul>
-							</li>
+							<li class="menu-item"><a href="guesthouse.php"><span>Gästehaus</span></a></li>
 							<li class="menu-item"><a href="ausschankwagen.php"><span>Ausschankwagen</span></a></li>
 							<li class="menu-item"><a href="contacts.php"><span>Kontakt</span></a></li>
 							<li class="menu-item"><a href="buy-wines.php"><span>Online Shop</span></a>

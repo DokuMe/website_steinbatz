@@ -25,7 +25,7 @@
 							<div class="wrap">
 								<nav class="menu_main_nav_area menu_hover_fade menu_show">
 									<ul id="menu_main" class="menu_main_nav">
-										<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</a></span>
+										<li class="menu-item menu-item-has-children"><a href="family.php"><span>Winzerhof</span></a>
 											<ul class="sub-menu">
 												<li class="menu-item"><a href="family.php"><span>Über uns</span></a></li>
 											</ul>
@@ -61,10 +61,8 @@
 						</div>
 					</div>
 				</div>
-
-				
-
 			</header>
+
 			<div class="menu_side_wrap scheme_dark">
 				<div class="menu_side_inner">
 					<a class="menu_mobile_button menu_mobile_button_text">MENU</a>
@@ -103,6 +101,7 @@
 					</div>
 				</div>
 			</div>
+
 			<div class="page_content_wrap scheme_default">
 				<div class="content_wrap">
 					<div class="content">
@@ -117,7 +116,10 @@
 												<ul>
 													<li data-index="rs-387" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" class="shop_slider_slide" data-title="Shiraz Cabernet" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Bild 2">
 														<div class="tp-caption shop_slider_image   tp-resizeme  shop-slide-img" id="slide-387-layer-1" data-x="center" data-hoffset="" data-y="bottom" data-voffset="" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:750;e:Linear.easeNone;" data-transform_out="opacity:0;s:300;" data-start="440" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: normal; font-size: 20px; line-height: 22px;">
-															<img src="images/steinbatz/reben2.jpg" width="540" height="720" data-no-retina alt="" />
+
+															<!-- <img src="images/steinbatz/reben2.jpg" width="540" height="720" data-no-retina alt="" /> -->
+															<div class="parallax-effect parallax-image-index-header"></div>
+
 														</div>
 														<h1 class="tp-caption shop_slider_title   tp-resizeme  shop-slide-title" id="slide-387-layer-4" data-x="43" data-y="255" data-width="['470']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:-50px;opacity:0;s:750;e:Power2.easeOut;" data-transform_out="opacity:0;s:300;" data-start="810" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; min-width: 470px; max-width: 470px; white-space: normal;">
 															<a class="shop-title-link">Das Leben ist zu kurz um schlechten Wein zu trinken</a> 

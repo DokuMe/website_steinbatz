@@ -21,7 +21,20 @@
 				</div>
 			</header>
 
+			<div class="parallax-effect parallax-image-guesthouse1"></div>
+
 			<?php include 'includes/header_mobile.php'; ?>
+
+			<div class="row">
+				<div class="wpb_column vc_column_container column-12_12">
+					<div class="vc_column-inner ">
+						<div class="wpb_wrapper">
+							<div class="vc_empty_space  height_medium hide_on_mobile" style="height: 0px"></div>
+							<div class="vc_empty_space  height_medium" style="height: 0px"></div>
+						</div>
+					</div>
+				</div>
+			</div>
 			
 			<div class="page_content_wrap scheme_default">
 				<div class="wrap">

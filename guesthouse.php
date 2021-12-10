@@ -21,6 +21,8 @@
 				</div>
 			</header>
 
+      <div class="parallax-effect parallax-image-guesthouse1"></div>
+
 			<?php include 'includes/header_mobile.php'; ?>
 			
 			<div class="page_content_wrap scheme_default">
@@ -68,7 +70,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="row vc_column-gap-30">
+				<!-- <div class="row vc_column-gap-30">
 					<div class="wpb_column vc_column_container column-1_12">
 						<div class="vc_column-inner ">
 							<div class="wpb_wrapper"></div>
@@ -103,8 +105,9 @@
 							<div class="wpb_wrapper"></div>
 						</div>
 					</div>
-				</div>
-				<div class="row">
+				</div> -->
+
+				<!-- <div class="row">
 					<div class="wpb_column vc_column_container column-12_12">
 						<div class="vc_column-inner ">
 							<div class="wpb_wrapper">
@@ -113,7 +116,8 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
+        
 				<!-- <div class="scheme_dark wpb_row">
 					<div class="wrap">
 						<div class="row">
@@ -233,6 +237,8 @@
 					</div>
 				</div> -->
 			</div>
+
+      <div class="parallax-effect parallax-image-guesthouse2"></div>
 			
 			<?php include 'includes/footer.php'; ?>
 			

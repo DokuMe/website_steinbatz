@@ -251,6 +251,10 @@ body:not(.single) .top_panel,
     width: 1000px
   }
 }
+
+.fixed_scroll_menu {
+  background-color: red;
+}
 /*Headers Logo End*/
 
 header .menu_main_wrap.main_menu_index {
@@ -293,6 +297,27 @@ header .menu_main_wrap.main_menu_index {
 .wrap.header-slider h1.tp-caption.shop_slider_title a.shop-title-link {
   color: #000;
   text-shadow: 0 0 10px rgba(255,255,255,0.7);
+}
+
+.parallax-effect {
+  min-height: 1200px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-image-index-header {
+  background-image: url("../images/steinbatz/reben2.jpg");
+  opacity: .6;
+}
+.parallax-image-guesthouse1,
+.parallax-image-guesthouse2 {
+  min-height: 500px;
+  background-image: url("../images/GAESTEHAUS_9.jpg");
+}
+.parallax-image-guesthouse2 {
+  background-image: url("../images/GAESTEHAUS_5.jpg");
 }
 /*Header Slider END*/
 

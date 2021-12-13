@@ -122,3 +122,21 @@ var tribeEventsSingleMap = {
 /* <![CDATA[ */
 var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes"};
 /* ]]> */
+
+/* Menu on Index-Page scrolls */
+function fixed_menus_when_scrolling_indexpage() {
+    "use strict";
+	var scroll_offset = jQuery(window).scrollTop();
+	if (scroll_offset >= 300) {
+		console.log("Im working");
+		jQuery('header').addClass('fixed_scroll_menu');
+	} else if (scroll_offset < 500) {
+		jQuery('header').removeClass('fixed_scroll_menu');
+	}
+}
+
+jQuery(window).scroll(function() {
+	"use strict";
+	fixed_menus_when_scrolling_indexpage();
+});
+

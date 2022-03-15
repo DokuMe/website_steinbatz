@@ -7,15 +7,15 @@
 		<div class="page_wrap">
 		<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
 			<?php include 'includes/header.php'; ?>
-
-			<div class="top_panel_title_wrap">
+		</header>
+		<div class="top_panel_title_wrap">
 				<div class="content_wrap">
 					<div class="top_panel_title">
 						<div class="page_title">
 							<h1 class="page_caption">Grüner Veltliner Kabinett</h1>
 						</div>
 						<div class="breadcrumbs">
-							<a class="breadcrumbs_item home" href="index.html">Home</a>
+							<a class="breadcrumbs_item home" href="index.php">Home</a>
 							<span class="breadcrumbs_delimiter"></span>
 							<a class="breadcrumbs_item cat_post" href="buy-wines.php">Unser Shop</a>
 							<span class="breadcrumbs_delimiter"></span>
@@ -24,7 +24,6 @@
 					</div>
 				</div>
 			</div>
-		</header>
 
 		<?php include 'includes/header_mobile.php'; ?>
 

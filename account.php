@@ -8,18 +8,17 @@
 		<div class="page_wrap">
 		<header class="top_panel top_panel_style_1 without_bg_image scheme_default">
 				<?php include 'includes/header.php'; ?>
-
-				<div class="top_panel_title_wrap">
+			</header>
+			<div class="top_panel_title_wrap">
 					<div class="content_wrap">
 						<div class="top_panel_title">
 							<div class="page_title">
 								<h1 class="page_caption">Mein Konto</h1>
 							</div>
-							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.html">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Mein Konto</span></div>
+							<div class="breadcrumbs"><a class="breadcrumbs_item home" href="index.php">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Mein Konto</span></div>
 						</div>
 					</div>
 				</div>
-			</header>
 
 			<?php include 'includes/header_mobile.php'; ?>
 			

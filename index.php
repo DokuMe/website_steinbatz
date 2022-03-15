@@ -13,7 +13,7 @@
 					<div class="top_panel_navi index_page_logo scheme_dark">
 						<div class="menu_main_wrap main_menu_index clearfix">
 							<div class="wrap">
-								<a class="logo">
+								<a class="logo" href="index.php">
 									<img src="images/steinbatz_logo.png" class="logo_main" alt="" />
 								</a>
 							</div>
@@ -146,10 +146,17 @@
 									<div class="row">
 										<div class="wpb_column vc_column_container column-12_12">
 											<div class="vc_column-inner ">
-												<h2 class="sc_item_title sc_promo_title">Herzlich Willkommen am Winzerhof Steinbatz</h2>
+												<h2 class="sc_item_title sc_promo_title">Willkommen beim Winzerhof - Gästehaus Steinbatz</h2>
+												<h5 class="sc_item_subtitle sc_promo_subtitle">
+													Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich. In unserem Familienbetrieb wird schon seit vielen Generationen Weinbau erfolgreich betrieben, wobei unser Sortiment ständig gewachsen ist.
+												</h5>
 											</div>
 										</div>
 									</div>
+								</div>
+
+								<div class="parallax-effect parallax-image-guesthouse1 d-flex justify-content-center align-items-center">
+									<div class="parallax-text">AUSDRUCKSSTARKE<br> WEINE MIT DER<br> HANDSCHRIFT DER<br> FAMILIE</div>
 								</div>
 
 								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
@@ -158,8 +165,8 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_favourite_place" class="sc_anchor" title="Favourite Place" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/vineyard-943943_1280.jpg);width:50%;left: 0;"></div>
-													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+													<div class="sc_promo_image" style="background-image:url(images/vineyard-943943_1280.jpg);width:50%;right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
 															<h2 class="sc_item_title sc_promo_title" id="aboutUs">Über uns</h2>
@@ -180,13 +187,13 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_wine_essentials" class="sc_anchor" title="Wine Essentials" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/steinbatz/innen.jpg);width:50%;right: 0;"></div>
-													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/innen.jpg);width:50%;left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
 															<h2 class="sc_item_title sc_promo_title">Gästehaus</h2>
 															<h5 class="sc_item_subtitle sc_promo_subtitle">Urlauben, wo der Wein wächst und gekeltert wird.</h5>
-															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="lagen.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="guesthouse.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
 														</div>
 													</div>
 												</div>
@@ -200,8 +207,8 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_favourite_place" class="sc_anchor" title="Favourite Place" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/wine-4813260_640.jpg);width:50%;left: 0;"></div>
-													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
+													<div class="sc_promo_image" style="background-image:url(images/wine-4813260_640.jpg);width:50%;right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-bottles"><span class="icon-bottles"></span></div>
 															<h2 class="sc_item_title sc_promo_title" id="ourWines">Unsere Weine</h2>
@@ -220,8 +227,8 @@
 											<div class="wpb_wrapper">
 												<a id="sc_anchor_wine_essentials" class="sc_anchor" title="Wine Essentials" data-icon="" data-url=""></a>
 												<div class="sc_promo sc_promo_default sc_promo_size_large">
-													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;right: 0;"></div>
-													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+													<div class="sc_promo_image" style="background-image:url(images/steinbatz/reben1.jpg);width:50%;left: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: right;">
 														<div class="sc_promo_text_inner sc_align_center">
 															<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
 															<h2 class="sc_item_title sc_promo_title">Neugierig?</h2>
@@ -230,6 +237,18 @@
 														</div>
 													</div>
 												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="wrap headline-welcome">
+									<div class="row">
+										<div class="wpb_column vc_column_container column-12_12">
+											<div class="vc_column-inner ">
+												<h2 class="sc_item_title sc_promo_title">NEUGIERIG?</h2>
+												<h5 class="sc_item_subtitle sc_promo_subtitle">
+													Rufe uns einfach an oder schicke uns eine E-Mail, wir freuen uns auf deine Nachricht!
+												</h5>
 											</div>
 										</div>
 									</div>

@@ -1,3 +1,16 @@
+/* Helper classes */
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
 /*Menu START*/
 .menu_mobile {
   width: 100%;
@@ -149,6 +162,12 @@ body.menu_style_side {
   .menu_style_side .wrap.header-slider {
     border-bottom: none;
     margin-bottom: 5rem;
+  }
+}
+
+@media(min-width: 1023px) {
+  .menu_style_side .wrap {
+    width: 1000px;
   }
 }
 
@@ -375,6 +394,7 @@ header .menu_main_wrap.main_menu_index {
   color: #000;
   text-shadow: 0 0 10px rgba(255,255,255,0.7);
 }
+/*Header Slider END*/
 
 .parallax-effect {
   min-height: 1200px; 
@@ -396,7 +416,22 @@ header .menu_main_wrap.main_menu_index {
 .parallax-image-guesthouse2 {
   background-image: url("../images/GAESTEHAUS_5.jpg");
 }
-/*Header Slider END*/
+
+.parallax-text {
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 40px;
+  text-align: center;
+  text-shadow: 0 0 10px #2a2a2a;
+}
+
+@media (min-width: 1023px) {
+  .parallax-text {
+    font-size: 44px;
+    line-height: 3rem;
+  }
+}
 
 /*Headline Welcome START*/
 .headline-welcome {

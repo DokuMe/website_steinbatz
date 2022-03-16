@@ -181,7 +181,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
+								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
 										<div class="vc_column-inner vc_custom_1465806595697">
 											<div class="wpb_wrapper">
@@ -200,8 +200,8 @@
 											</div>
 										</div>
 									</div>
-								</div>
-								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
+								</div> -->
+								<!-- <div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
@@ -220,8 +220,8 @@
 											</div>
 										</div>
 									</div>
-								</div>
-								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
+								</div> -->
+								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
 										<div class="vc_column-inner vc_custom_1465806595697">
 											<div class="wpb_wrapper">
@@ -240,6 +240,20 @@
 											</div>
 										</div>
 									</div>
+								</div> -->
+								<div class="intro-section-col-4 d-flex">
+									<img class="intro-section-col-4-image" src="images/GAESTEHAUS_2.jpg" />
+									<div class="intro-section-col-4-text">
+										<div class="sc_promo_icon" data-icon="icon-grape-leafs"><span class="icon-grape-leafs"></span></div>
+										<h2 class="sc_item_title sc_promo_title">
+											GÄSTEHAUS & UNSERE WEINE
+										</h2>
+										<h5 class="sc_item_subtitle sc_promo_subtitle">
+										Urlauben, wo der Wein wächst und gekeltert wird. Genießen Sie eine erholsame Zeit bei uns im Kremstal, verkosten Sie unsere Weine und überzeugen Sie sich von der Qualität unserer Produkte.
+										</h5>
+										<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="guesthouse.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a></div>
+									</div>
+									<img class="intro-section-col-4-image" src="images/wine-4813260_640.jpg" />
 								</div>
 								<div class="wrap headline-welcome">
 									<div class="row">

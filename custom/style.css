@@ -534,6 +534,10 @@ header .menu_main_wrap.main_menu_index {
   .row.intro-section .sc_promo .trx_addons_stretch_height {
     min-height: 39vh;
   }
+
+  .trx_addons_stretch_height {
+    min-height: 80vh;
+  }
 }
 
 .intro-section-col-4 {

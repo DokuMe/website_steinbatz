@@ -159,7 +159,29 @@
 									<div class="parallax-text">AUSDRUCKSSTARKE<br> WEINE MIT DER<br> HANDSCHRIFT DER<br> FAMILIE</div>
 								</div>
 
-								<div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
+								<div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height">
+									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
+										<div class="vc_column-inner vc_custom_1465806595697">
+											<div class="wpb_wrapper" id="wine_essentials">
+												<a id="sc_anchor_wine_essentials" class="sc_anchor" title="Wine Essentials" data-icon="" data-url=""></a>
+												<div class="sc_promo sc_promo_default sc_promo_size_large">
+													<div class="sc_promo_image" style="background-image:url(images/vineyard-943943_1280.jpg);width:50%;right: 0;"></div>
+													<div class="sc_promo_text trx_addons_stretch_height" style="width: 50%;float: left;">
+														<div class="sc_promo_text_inner sc_align_center">
+														<div class="sc_promo_icon" data-icon="icon-grape-3"><span class="icon-grape-3"></span></div>
+															<h2 class="sc_item_title sc_promo_title" id="aboutUs">Über uns</h2>
+															<!-- <h5 class="sc_item_subtitle sc_promo_subtitle">We make wine with a thought of our customers, therefore the team...</h5> -->
+															<div class="sc_item_descr sc_promo_descr">Unser Winzerhof liegt im wunderschönen Ort Brunn im Felde, 6 km östlich von Krems an der Donau in Niederösterreich. In unserem Familienbetrieb wird schon seit vielen Generationen Weinbau erfolgreich betrieben, wobei unser Sortiment ständig gewachsen ist.</div>
+															<div class="sc_item_button sc_promo_button sc_button_wrap"><a href="family.php" class="sc_button sc_button_simple sc_button_size_normal sc_button_icon_top"><span class="sc_button_icon"><span class="icon-down-big"></span></span><span class="sc_button_text"><span class="sc_button_title">Mehr lesen</span></span> </a>																</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- <div class="row row-no-padding vc_custom_1466087475749 row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12">
 										<div class="vc_column-inner ">
 											<div class="wpb_wrapper">
@@ -180,7 +202,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 								<!-- <div class="row row-no-padding row-o-full-height row-o-columns-stretch row-o-equal-height intro-section">
 									<div class="wpb_column vc_column_container column-12_12 vc_col-has-fill">
 										<div class="vc_column-inner vc_custom_1465806595697">
